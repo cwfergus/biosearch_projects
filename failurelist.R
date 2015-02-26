@@ -29,19 +29,19 @@ failures <- filter(rawdata, !is.na(Failure_Reason))
 
 sorted <- arrange(failures, Failure_Reason, Five_Prime_mod, Three_Prime_mod)
 
-if (raw_or_count == 1) {
-        by_Reason <- group_by(sorted, Failure_Reason)
-        failure_counts <- summarize(by_Reason, number_of_failures = n())
-        class(failure_counts) <- "data.frame"
-        write.xlsx(failure_counts, 
-                   file=outputname, 
-                   sheetName="Counted",
-                   row.names=FALSE)
-} else {
-        write.xlsx(sorted, outputname,
-                   sheetName="Raw",
-                   row.names=FALSE)
-}
+by_Reason <- group_by(sorted, Failure_Reason)
+failure_counts <- summarize(by_Reason, number_of_failures = n())
+class(failure_counts) <- "data.frame"
+
+write.xlsx(failure_counts,
+           file=outputname, 
+           sheetName="Counted",
+           row.names=FALSE)
+
+write.xlsx(sorted, 
+           outputname,
+           sheetName="Raw",
+           row.names=FALSE)
 
 
 
