@@ -1,0 +1,1458 @@
+low yield - 2/24/2015 sm 		Biotin	5-4-T-4-TT-4-6-9-6-4-8-7-4-8-6-6-6-7-8-7-8-6-8-6-8-6-6-6-7-7-8
+synthesis failure		Biotin	5-4-T-4-TT-4-6-8-4-8-8-6-8-4-8-8-6-6-8-8-6-8-6-6-8-8
+synthesis failure		Biotin	5-4-T-4-TT-4-6-6-8-8-6-7-4-6-8-6-8-8-9-4-6-8-6-8-8-6-8-6-7
+low yield - 2/24/2015 sm 		Biotin	5-4-T-4-TT-4-7-6-6-6-8-6-8-8-4-6-8-4-8-8-6-7-6-6-8-4-9-8-8
+	Spacer C3		GATCCAGACAACTGTTCAAACTGATGGGACCCAC-6-5-CA-7-CGAGATTT*C
+	Spacer C3		CCACAAAATGGATCCAGACAACTGTTCAAAC-6-G-5-7-GGGACCCACTCCA*T
+Poor AX Purity	BHQ-2	ROX-C6	CTCGGTGGGCAAACGGAGCAA
+	BHQ-2	ROX-C6	TGTAGCTGACACCACCAAGCTACA
+Poor BHQ2 coupling	BHQ-2	ROX-C6	ccgAGCCAGgCAGCGACCAAAAGctcgg
+Fluorescent Purity		FAM	CCGGAGTCTGAGGCCAGACTCCGG-6-5-GTGTCCCTGGGCTGTGGCTTTG
+	BHQ-1	FAM	ccTGTAGCTGAATATCATTAG-9-Tacagg
+Swapped sample reassign for LH purposes 02/25/15 kt	BHQ-1	FAM	ccTGTAGCTGAATATCATTAG-9-Tacagg
+	BHQ-2	CAL Fluor Red 610	CAGCACAACC-8-9-CACCAACCG
+purity		Amino C6	5-CAAAGTGGGAGACGTCGTTG
+purity		Amino C6	5-CAAAG-8-GGGAGACGTCG-8-TG
+		BHQ-1	ACGTGCCAAAACAATTTTCGCAGAAAACGGCACG-8-5-GAAATACAAATCGGACTAGGATATAGCTG
+		BHQ-1	ACGTGCCAAAACAATTTTCGCAGAAAACGGCACG-8-5-GAAATACAAATCGGACTAGGATATAGCTG
+		BHQ-1	ACGTGCCAAAACAATTTTCGCAGAAAACGGCACG-8-5-GAAATACAAATCGGACTAGGATATAGCTG
+	BHQ-1	CAL Fluor Gold 540	TGAAAGAGCAACAAAATGGCTTC
+	BHQ-1	TET	TCTATTTGGAGACTGTGATAAGA
+	BHQ-1	TET	TCTATTTGGAGACTGTGATAAGA
+	BHQ-2	Quasar 670	TTTTTCGAGCTGCGCGAACGAGC
+	BHQ-2	Quasar 670	TGCCATACATTGTTGTCCTGACAAATTGAA
+	BHQ-3	Quasar 705	TGGCGAACGGGTGAGTAACA
+	BHQ-1	CAL Fluor Gold 540	5-9-A-9-A-9-9-9-9-9-AGGA
+	BHQ-1	CAL Fluor Gold 540	9-AA-9-A-9-9-9-G-9-AG-9-9-A
+	BHQ-1	CAL Fluor Gold 540	5-9-A-5-AGG-5-9-G-5-9-A-5-G-9-5
+	BHQ-1	CAL Fluor Gold 540	9-GAA-5-9-A-5-9-5-5-5-GAAG-9-AG-9-9
+	BHQ-1	FAM	TCTTTGCATTACATTTCTTATTACCTTTTG-9-ATTAGCTGC
+No FLP	Phos		AAAGGCAAGTGTGCGGTGCATTCGA-9-G-5-C-6-AACGCCGTCACTATCCGG
+	BHQ-2	Quasar 705	AAGGTTTCCTC-8-9-CCCCAGCTC
+low yield at ods 2/25/15 dl	BHQ-1	FAM	5-A-5-GAA-5-G-9-5-A-5-A-9-9-9-AG-5
+Poor FAM Coupling	BHQ-1	FAM	AGGAG-9-9-AAG-5-9-9-AGA-5
+Poor FAM Coupling	BHQ-1	FAM	5-GAGG-5-9-9-G-5-AAA-9-G-5
+	BHQ-1	FAM	9-9-G-9-9-5-AGA-5-5-9-A-9-5
+Poor FAM Coupling	BHQ-1	FAM	9-GG-5-5-A-9-AG-9-G-5-GAA-5
+	BHQ-1	FAM	AA-9-5-AAG-9-AAG-5-GA-5-9-AA
+	BHQ-1	FAM	5-5-5-9-A-5-A-5-9-AA-5-9-AA-9-9-9
+	BHQ-1	FAM	9-9-AG-9-5-9-A-5-5-AG-9-AAA
+	BHQ-1	FAM	AA-9-AA-5-5-9-GG-5-9-A-5-5-AGAG
+	BHQ-1	FAM	A-9-5-5-5-AGGA-5-9-A-5-9-9-G-5
+	BHQ-1	FAM	5-9-9-AA-9-9-AG-5-AAAGAA-5-9-5
+	BHQ-1	FAM	9-A-5-9-5-5-AGGA-5-9-5-9-G-9-5
+	BHQ-1	FAM	AA-9-A-9-5-9-5-5-G-9-5-G-9-A-5-5-A
+	BHQ-1	FAM	5-9-9-9-5-G-9-9-G-5-GAA-9
+	BHQ-1	FAM	5-GA-9-A-9-5-G-9-A-5-9-G-9
+low yield at ods 2/25/15 dl	BHQ-1	FAM	5-GA-5-A-5-5-5-AGGA-9-AGA-9-AAAG
+	BHQ-1	FAM	9-GAA-9-5-5-G-5-9-GGA-9-A
+	BHQ-1	FAM	9-9-5-5-5-5-GAG-9-5-AAG-5-5-5-5-G
+	BHQ-1	FAM	9-GG-9-9-G-9-9-5-5-9-5-A
+	BHQ-1	FAM	AAGAAA-5-9-A-5-5-9-9-A-9-5-9-5-AA
+	BHQ-1	FAM	A-9-A-9-A-5-A-5-5-5-9-5-AG-5-5-9-9-AG-5-A
+	BHQ-1	FAM	9-AGA-9-5-9-AGG-9-5-A-5-A-5-A-9-AG
+	BHQ-1	FAM	9-AAAA-9-9-AA-9-A-5-AA-5-9
+	BHQ-1	TET	5-A-5-GAA-5-G-9-5-G-5-A-9-9-9-A
+	BHQ-1	TET	AG-9-9-AAG-5-9-9-GGA-5-5-A
+	BHQ-1	TET	5-G-5-GAGG-5-9-9-G-5-AGA-9
+	BHQ-1	TET	9-G-9-9-5-AGA-5-5-9-9-9-5-5
+	BHQ-1	TET	5-9-GG-5-5-A-9-AG-9-5-5-GA
+	BHQ-1	TET	AA-9-5-AAG-9-AAG-5-G-9-5-9
+	BHQ-1	TET	9-AG-5-5-5-9-A-5-A-5-9-AG-5-9-AA-9
+	BHQ-1	TET	9-AG-9-5-9-A-5-5-GG-9-AAA
+	BHQ-1	TET	AGAA-9-AA-5-5-9-GG-5-9-G-5-5-A
+	BHQ-1	TET	AGA-9-5-5-5-AGGA-5-9-A-5-9-5-G-5
+	BHQ-1	TET	5-9-9-AA-9-9-AG-5-AGAGAA-5-9-5
+	BHQ-1	TET	9-A-5-9-5-5-AGGA-5-9-5-9-5-9-5-G
+	BHQ-1	TET	5-GAA-9-A-9-5-9-5-5-G-5-5-G-9-A-5-5
+	BHQ-1	TET	9-5-9-9-9-5-GG-9-G-5-GAA-9
+	BHQ-1	TET	5-GA-9-A-9-5-G-9-A-5-5-G-9-A
+	BHQ-1	TET	5-5-5-AGGA-9-AGA-9-9-AAGG
+	BHQ-1	TET	5-G-9-GAA-9-5-5-G-5-5-GGA
+	BHQ-1	TET	9-5-5-5-5-GAG-9-5-AAA-5-5-5-5-G
+	BHQ-1	TET	AA-5-A-5-5-A-9-5-9-GG-9-9-G-5-9-5-5
+	BHQ-1	TET	AAGAAA-5-9-A-5-5-9-9-9-9-5-9-5
+	BHQ-1	TET	9-A-9-A-5-A-5-5-5-9-5-AG-5-5-5-9-AG-5-AA
+	BHQ-1	TET	9-AGA-9-5-9-AGG-9-5-5-5-A-5-A-9-A
+	BHQ-1	TET	9-AAAA-9-9-AA-9-A-9-AA-5-9
+low yield at ods 02/24/15 sk	BHQ-2	Quasar 670	AGCTTGTAGGCGGGGTAATGGCC
+	BHQ-2	Quasar 670	AGCTTGTAGGCGGGGTAATGGCC
+low Yield after Ods 02/24/15 mrr	BHQ-2	Quasar 670	AGCTTGTAGGCGGGGTAATGGCC
+low yield at ods 02/24/15 sk	BHQ-2	Quasar 670	AGCTTGTAGGCGGGGTAATGGCC
+low Yield after Ods 02/24/15 mrr	BHQ-2	Quasar 670	AGCTTGTAGGCGGGGTAATGGCC
+	BHQ-2	Quasar 670	AGCTTGTAGGCGGGGTAATGGCC
+Missing Wobble	Phos		ACCC-7-CCCTC-7-AKCCC
+Missing Wobble	Phos		CTCCC-7-CTAKCCC-7-CGCG
+synthesis failure	C3-Fluorescein		ctgcgctgtttcgtcgtg 
+synthesis failure	C3-Fluorescein		tgtggttgcggttttctc 
+synthesis failure	C3-Fluorescein		ctgttcgggtttcgggcg 
+synthesis failure	C3-Fluorescein		cggttgttgttggtgcgg 
+synthesis failure	C3-Fluorescein		ctttctgtgtcggtcgtg 
+synthesis failure	C3-Fluorescein		cgtctttcgggtcggtcg 
+	BHQ-2	CAL Fluor Red 610	GCTACACGACTTTYGCTGAAGGTAGC
+	BHQ-2	Quasar 570	TGGTGCCAGGGTTGAGCTTGAGATTG
+	Quasar 670		accgttactttttgtctcag
+	Quasar 670		actctagtaagtggttgctg
+	Quasar 670		cattcctcttgggagatttt
+	Quasar 670		ctgacacgggaacctgaaga
+	Quasar 670		acttgaggtgtcatcatagc
+	Quasar 670		acttgttgctggaggatctg
+	Quasar 670		agttgaagctgcaactgttc
+	Quasar 670		ctgtaactgctgcatctgta
+	Quasar 670		tgcaaagacaggaggtgctg
+	Quasar 670		ctgaattgtcagaaggcctt
+	Quasar 670		tgagcaagaggttgaagggg
+	Quasar 670		cttgtcacttctttccagag
+	Quasar 670		ggtttcttctgcagtatgag
+	Quasar 670		ggcatgtgggttcattatta
+	Quasar 670		ttttgggagtgtggactgag
+	Quasar 670		ctcctcatgggacaaacttt
+	Quasar 670		ccatagagaggatggctatg
+	Quasar 670		tggaaatcttcgcacactgc
+	Quasar 670		gctcactgttgagatgtttt
+	Quasar 670		acattgggctgtacttctat
+	Quasar 670		gtacaacctgcatttgtact
+	Quasar 670		gcaagctgtagctctaactg
+	Quasar 670		ataccagattcaagggctga
+	Quasar 670		ggacttggagagagtgacac
+	Quasar 670		atgaggtaagctctgtggag
+	Quasar 670		tggtggttgtgatgacagag
+	Quasar 670		gttgtatttgtctgagtacc
+	Quasar 670		tatctgctgacgaaatgggc
+	Quasar 670		aatggtggtctaacttctgc
+	Quasar 670		gcctgcctaattaaagatgc
+	Quasar 670		ttagtgttagctgcttttct
+	Quasar 670		tcgtgtgaaccagttataga
+	Quasar 670		gttgcgtcggaagtaagcaa
+	Quasar 670		ttatgacgcactgcattctt
+	Quasar 670		taacgttttctactcgcaca
+	Quasar 670		ttcatccactgtccatactg
+	Quasar 670		tggccttcgtttttggaatt
+	Quasar 670		aagggttaccactgatcttt
+	Quasar 670		gctgctctgcatgtttttaa
+	Quasar 670		cattgagaggtgtgcagtag
+	Quasar 670		agccattgaagcctgtaaag
+	Quasar 670		gcggtagtgtatagaggtat
+	Quasar 670		gtattgcgctggctaagttg
+	Quasar 670		ctctcgttgctgttggtatg
+	Quasar 670		cacggcttgcataggagatc
+	Quasar 670		cttctttgacgtgtacagga
+	Quasar 670		ttggctgttgtcactaagga
+	Quasar 670		tcgtttactggttcatcttc
+	Quasar 705		ggctgatccatccaaaagaa
+	Quasar 705		ggaaattggtttttccaacg
+	Quasar 705		attacaaagtcgcgcacata
+	Quasar 705		atcaaggctgttaactaggt
+	Quasar 705		ggagtgtcactaaattgcac
+	Quasar 705		gtgtttaaagagaactccgt
+	Quasar 705		gatatctgacttggtctggt
+	Quasar 705		tagacatagcttagggctga
+	Quasar 705		cagcttccgtgaagtggttg
+	Quasar 705		gcaaataggagtcctcagac
+	Quasar 705		tgggttaaaagcaatctgct
+	Quasar 705		tcatccatgagatacaccag
+	BHQ-2	Quasar 670	ATGGTCCAGAGGATCGCTCTCTCCCT
+wobble	BHQ-1	CAL Fluor Gold 540	AGA-5-YG-9-GA-5-9-S-9-9-9-5-9
+low Yield after Ods 02/24/15 mrr	Spacer C3	FAM	CCGGCTAACTCCGTGCCAGC-6-AGCCGCGGTAAGACGGAGGGGGCTAGCGTTGTTCGGAATTACTGGGCGTAAAGAGTGCGTAGGC
+MS ok: TS 02/26/2015low yield - 2/24/2015 sm 			TCAGATCCATAGTGTC-8-CTTGTTA
+	Biotin	Biotin	TGGTT-5-TTTAGTCAT
+	Biotin	Biotin	GATGACGTAATGC-5-GATGACAGTATC
+		6-FAM	5-ATGAAATCAACAGAGGCTTGCATGT
+		6-FAM	5-ATCCGTGACTCTCTGGACTCTG
+		6-FAM	5-TGGGACCTTGTGATAATGTAAGATAG
+		6-FAM	5-ATCCCTGCATCTCAGACTCTTC
+		6-FAM	CCCTGGGCTCTGTAAAGAATAG
+		6-FAM	CTAACAAAAGGCTGTAACAAGGGCTA
+		6-FAM	TTCAATCATACACCCATATCTGTC
+		6-FAM	CAGTAAAAAGCAAACCTGAGCA
+	BHQ-2	Quasar 670	AGCTTGTAGGCGGGGTAATGGCC
+	Quasar 570		tcaagcgccaatgagttgac
+	Quasar 570		gaactttggccatcttgatt
+	Quasar 570		ctgtagtcttcgttttcact
+	Quasar 570		gagagagatggtcaatggca
+	Quasar 570		ccatagcttgcatcatagaa
+	Quasar 570		gatctgtgcaagtctcatga
+	Quasar 570		ttgacgtttcagaggttctc
+	Quasar 570		ctccttgaaggtgaagttgg
+	Quasar 570		ttgcttgacgttgctgatac
+	Quasar 570		tctcttcttcagaatcttcc
+	Quasar 570		caggtcatcttcagtgaagg
+	Quasar 570		cttccagatcatgggttatg
+	Quasar 570		taaggtgctgatctgggttg
+	Quasar 570		tctcaaatcactctggtagg
+	Quasar 570		tgacgagcttcatcagtttg
+	Quasar 570		ccacatcctgatatatagtt
+	Quasar 570		gcaggtcatttaaccaagtg
+	Quasar 570		gatatttagagtcgtctcct
+	Quasar 570		cgctcacgaacagttgtgaa
+	Quasar 570		ttttggtgtttctggcaact
+	Quasar 570		aatgaggtcggtctcactac
+	Quasar 570		gcagctgatgtgaagtagtt
+	Quasar 570		ggcaataaacagctctggat
+	Quasar 570		aagtctgtcatagagggcag
+	Quasar 570		agcacttcccaagtgaatag
+	Quasar 570		tcctgtacatggtacataca
+	Quasar 570		agtgactcagggtgaggaag
+	Quasar 570		tacagagactcagcacatgc
+	Quasar 570		ggtttgctcttctcttacaa
+	Quasar 570		tagtatcatatgtcggggtg
+	Quasar 570		gcaaactatagggtactctt
+	Quasar 570		agaatgccatgcagaatagt
+	Quasar 570		gtagagtctttttgatcctc
+	Quasar 570		ttttatccctttgttaaccc
+	Quasar 570		cattgagtgtgcttttcagt
+	Quasar 570		cacagtgagattggtctgtg
+	Quasar 570		tcaactggcattttgaagcc
+	Quasar 570		agttcttatacctttatcct
+	Quasar 570		aaagatgtagctattgtccc
+	Quasar 570		tctcactggagtaaaaccca
+	Quasar 570		ttacaggaggatttcatcca
+	Quasar 570		cgtcaagctcagaggattta
+	Quasar 570		catctaactgaccacctaga
+	Quasar 570		aaagtctgtagcatggagct
+	Quasar 570		gcttcgtggctgtggaaaaa
+	Quasar 570		gtaagaatacccagacagct
+	Quasar 570		tggttggtgttagttacagg
+	Quasar 570		atcagtgatgtggttgtcac
+	Quasar 570		atcccagatgagcctattag
+	Quasar 570		acaaggaagcttggctggag
+	Quasar 570		catagctgcttcagacactt
+	Quasar 570		agttgagttcaggaacagtt
+	Quasar 570		ctgtcaaaaggtggcatttc
+	Quasar 570		gggtccgtcaacttcaaaga
+	Quasar 570		gtcaaaggtttggaagcagc
+	Quasar 570		ggatgctctcatcaggacag
+	Quasar 570		tgctgctgcgagatttgaag
+	Quasar 570		ctgcctgaagctcttgttga
+	Quasar 570		cagccacaatgagtgatact
+	Quasar 570		acgggaaagacacaggtagc
+	Quasar 570		tcatgtcctcatcctggaag
+	Quasar 570		gaacgtcacacaccagcagg
+	Quasar 570		ctgtagtgcagttgtctaat
+	Quasar 570		agagctttcagctcatatgg
+	Quasar 570		aggtattttgtcgttgcttg
+	Quasar 570		tagattctttcctttgaggc
+	Quasar 570		cgtctttcattacacaggac
+	Quasar 570		tttgggtattgcttgggatc
+	Quasar 570		caaactccactttgctcttg
+	Quasar 570		ctgcttgtgaggtgctgatg
+	Quasar 570		ttcccaggaagacaggcttg
+	Quasar 570		attatgtcctgaccactgtt
+	Quasar 570		cacggattccatggtgaagt
+	Quasar 570		tccagcccatactttaggaa
+	Quasar 570		cctggggaaggcattagaaa
+	Quasar 570		cgaaaagggagctccttaac
+	Quasar 570		agattgagctgtctgctcat
+	Quasar 570		tgtcttggccgaggactaag
+	Quasar 570		tgtgccatggtttcttgtga
+	Quasar 570		cacaggctctctttgaacag
+	Quasar 570		ccatcagaggcaaggaggaa
+	Quasar 570		ctaatgtccccttgaatcaa
+	Quasar 570		agctaggttctgttctagag
+	Quasar 570		cgggctatgaccaattcatc
+	Quasar 570		cctatttattctcagcttca
+	Quasar 570		agtctcatccatattatagg
+	Quasar 570		tgctggtgcttcattcataa
+	Quasar 670		gcgactttcaggatgagttt
+	Quasar 670		cttgctcagcaggagaacaa
+	Quasar 670		cgagatggtggggagatgaa
+	Quasar 670		aattctcaagctcggagagg
+	Quasar 670		cttgaagctgattatttcgg
+	Quasar 670		catttacgaggtcctccatg
+	Quasar 670		agacattgagcttctcatca
+	Quasar 670		ttggcgttgtagttccgaaa
+	Quasar 670		taactggttcttcacgggag
+	Quasar 670		aattgtctgtcagagcatcc
+	Quasar 670		attcagagcctcgatgtttg
+	Quasar 670		tcattttcactcttctcatt
+	Quasar 670		cagaggctcctcgttgatac
+	Quasar 670		ctcaattacctgatctgctg
+	Quasar 670		ttctgcatcatttcctcaat
+	Quasar 670		gaggaagtttctcctccatc
+	Quasar 670		aaggtctgtgtcaatgcctg
+	Quasar 670		cttcataggaccagttgttg
+	Quasar 670		cgagaagtcacggatggcac
+	Quasar 670		aacctcaataagcaccgtga
+	Quasar 670		atctggtttcccttctctat
+	Quasar 670		catgctgaagcgcttgagag
+	Quasar 670		ctgcagaatgttggagatgc
+	Quasar 670		ctgaggagccaaaggtctgg
+	Quasar 670		ttcagatactgtttgtcagt
+	Quasar 670		tcttctcgtaaggaatgact
+	Quasar 670		cttccactgagggaggagag
+	Quasar 670		aatgtttgtcagcatctgca
+	Quasar 670		tatcctccttcatggcaaag
+	Quasar 670		ttagcaaagtaggcaccttc
+	Quasar 670		aaagggcaaggttaggtagg
+	Quasar 670		cctgtgatggaatgactctt
+	Quasar 670		acatgtcggaggttacatgg
+	Quasar 670		ggttaagctatacacgttta
+	Quasar 670		gcgcttgctcgtgtttaatc
+	Quasar 670		gaagccaacggcaaaggacc
+	Quasar 670		catccaatgattactagcac
+	Quasar 670		gccagactacataatgagcg
+	Quasar 670		ataagctgtttttgagggct
+	C3-Fluorescein		gcaatctgagttaagtgcgg
+	C3-Fluorescein		agtgcgggcaaacgtgaaaa
+	C3-Fluorescein		ataattcaggcaatctgagt
+	C3-Fluorescein		tcagtttttcacacaaacgt
+	C3-Fluorescein		ttcttatacccctctctcat
+	C3-Fluorescein		atcatcccgcacttaactta
+	C3-Fluorescein		caggacagattcctacctat
+	C3-Fluorescein		tatgcggtattagcacgcgt
+	C3-Fluorescein		ccctgctttgatttctcaat
+	C3-Fluorescein		gacgtaggctcaacctagag
+	C3-Fluorescein		tatcgctggatcagggtttc
+	C3-Fluorescein		tacctttctttcccacctaa
+	C3-Fluorescein		cagtaatcgaatattcctcg
+	C3-Fluorescein		tgcttattctgtgggtaccg
+	C3-Fluorescein		ccagtcattctgattaacgc
+	C3-Fluorescein		tctgtatacacgccctttac
+	C3-Fluorescein		cccagtcattctgattaacg
+	C3-Fluorescein		aaacctagtcaaccacctac
+	C3-Fluorescein		tagtcaacccgttttcgacg
+	C3-Fluorescein		aaattccacaaccctctctc
+	C3-Fluorescein		ctttccgatatctacgcatt
+	C3-Fluorescein		cagtgtcagttaagagccag
+	C3-Fluorescein		agccagttctcatcgtttac
+	C3-Fluorescein		tacgtcgcgcagaaccgaag
+	C3-Fluorescein		gcggagaacttaacgcgtta
+	C3-Fluorescein		taaggatgtcaagggtaggt
+	C3-Fluorescein		ctcgagcatctctgctcaat
+	C3-Fluorescein		ctgtctcttagttcctttcg
+	C3-Fluorescein		ctttaagttcccagctttac
+	C3-Fluorescein		gtgtagccctacccataaag
+	C3-Fluorescein		acgttttacaggattggctc
+	C3-Fluorescein		acttgctgattcgcgattac
+	C3-Fluorescein		ctaccgccttctggtaaaac
+	Quasar 570		gcaatctgagttaagtgcgg
+	Quasar 570		agtgcgggcaaacgtgaaaa
+	Quasar 570		ataattcaggcaatctgagt
+	Quasar 570		tcagtttttcacacaaacgt
+	Quasar 570		ttcttatacccctctctcat
+	Quasar 570		atcatcccgcacttaactta
+	Quasar 570		caggacagattcctacctat
+	Quasar 570		tatgcggtattagcacgcgt
+	Quasar 570		ccctgctttgatttctcaat
+	Quasar 570		gacgtaggctcaacctagag
+	Quasar 570		tatcgctggatcagggtttc
+	Quasar 570		tacctttctttcccacctaa
+	Quasar 570		cagtaatcgaatattcctcg
+	Quasar 570		tgcttattctgtgggtaccg
+	Quasar 570		ccagtcattctgattaacgc
+	Quasar 570		tctgtatacacgccctttac
+	Quasar 570		cccagtcattctgattaacg
+	Quasar 570		aaacctagtcaaccacctac
+	Quasar 570		tagtcaacccgttttcgacg
+	Quasar 570		aaattccacaaccctctctc
+	Quasar 570		ctttccgatatctacgcatt
+	Quasar 570		cagtgtcagttaagagccag
+	Quasar 570		agccagttctcatcgtttac
+	Quasar 570		tacgtcgcgcagaaccgaag
+	Quasar 570		gcggagaacttaacgcgtta
+	Quasar 570		taaggatgtcaagggtaggt
+	Quasar 570		ctcgagcatctctgctcaat
+	Quasar 570		ctgtctcttagttcctttcg
+	Quasar 570		ctttaagttcccagctttac
+	Quasar 570		gtgtagccctacccataaag
+	Quasar 570		acgttttacaggattggctc
+	Quasar 570		acttgctgattcgcgattac
+	Quasar 570		ctaccgccttctggtaaaac
+Incomplete Deprotection		5-TAMRA	AGAATAATCAGTATGTGACTTGGATTG
+Incomplete Deprotection		5-TAMRA	AGAATAATCAGTATGTGACTTGGATTG
+Incomplete Deprotection		5-TAMRA	AGAATAATCAGTATGTGACTTGGATTG
+		5-TAMRA	AGAATAATCAGTATGTGACTTGGATTG
+		5-TAMRA	AGAATAATCAGTATGTGACTTGGATTG
+Incomplete Deprotection		5-TAMRA	AGAATAATCAGTATGTGACTTGGATTG
+		5-TAMRA	ATGCTGAGGAGAATTTCCAA
+low Yield after Ods 02/24/15 mrr		5-TAMRA	ATGCTGAGGAGAATTTCCAA
+		5-TAMRA	TAGAGGCAGTCATCGCAGTG
+		5-TAMRA	ACATTTTAGGGAGACATAAGGC
+		5-TAMRA	ACTACTGAGTTTCTGTTATAGTGTTTTT
+low Yield after Ods 02/24/15 mrr		5-TAMRA	AATCCTTTGAAATCATTCATAATGC
+Incomplete Deprotection		5-TAMRA	AAGATGAAATTGCCATGTAAAAATA
+Incomplete Deprotection		5-TAMRA	AAGATGAAATTGCCATGTAAAAATA
+low yield at ods 02/24/15 sk		5-TAMRA	AAGATGAAATTGCCATGTAAAAATA
+low Yield after Ods 02/24/15 mrr		5-TAMRA	ACATATATAATGTGAGAAAGGAGGAGT
+low yield at ods 02/24/15 sk		5-TAMRA	ACATATATAATGTGAGAAAGGAGGAGT
+low yield at ods 02/24/15 sk		5-TAMRA	ACATATATAATGTGAGAAAGGAGGAGT
+low yield at ods 02/24/15 sk		5-TAMRA	ACATATATAATGTGAGAAAGGAGGAGT
+Incomplete Deprotection		5-TAMRA	ACATATATAATGTGAGAAAGGAGGAGT
+Incomplete Deprotection		5-TAMRA	ACATATATAATGTGAGAAAGGAGGAGT
+		5-TAMRA	CTCCATTCTCTCACACCCAAT
+		5-TAMRA	GGCTCTGATTTCCACCACTG
+		5-TAMRA	GGCTCTGATTTCCACCACTG
+		5-TAMRA	GGCTCTGATTTCCACCACTG
+low yield at ods 02/24/15 sk		5-TAMRA	ATGACCCGAATAAAAATCTTCTCTCT
+	BHQ-2	CAL Fluor Red 610	CAGCACAACC-8-9-CACCAACCG
+low Yield after Ods 02/24/15 mrr	Biosearch Blue	BHQ-2	GAATAATATAGCCCCCCCCCCCCCCCCCCCCCCCCCCCCCTATATTATTC
+	Spacer C3	BHQ-1	TTTTTTTTTTTTTTTTTTTT-9-AGTCCATCGCGTACGACG
+All material to re-purif. kt N-1 Failure	Spacer C3	BHQ-1	TTTTTTTTTTTTTTTTTTTG-5-TGGTCTCGCGTATCGACC
+All material to re-purif. ktN-1 Failure	Spacer C3	BHQ-1	TTTTTTTTTTTTTTTTTTTT-5-TAAGCCGTAACGTCGCA
+	Spacer C3	BHQ-1	TTTTTTTTTTTTTTTTTTTT-9-GCAACCCTACGTCGCTAC
+	Quasar 570		gtagctgtcaactggatcat
+	Quasar 570		catcaacaagtgcactcaca
+	Quasar 570		gtagctcggatatgcactgg
+	Quasar 570		catctgaaagggaatcaggc
+	Quasar 570		aacatgtctccgttttcatc
+	Quasar 570		cctatagtgggcttgagaat
+	Quasar 570		ccacctcaccgaattcattg
+	Quasar 570		ctccaagtgaagaagcatga
+	Quasar 570		gggtggactcccatataatc
+	Quasar 570		ttcagagaccagaagagacc
+	Quasar 570		gtcttgttaatagcttttca
+	Quasar 570		cctattcatcacatctcttt
+	Quasar 570		agttttacttggacctggaa
+	Quasar 570		gcactggcaactttattgtt
+	Quasar 570		cacataccacctctccaaag
+	Quasar 570		ccttctcgaaccttaattcg
+	Quasar 570		aattacccctgggaagagac
+	Quasar 570		cacccaaaccaccaaacaaa
+	Quasar 570		ctggcccgaaattcaagcag
+	Quasar 570		gcaggtcttcatagttatgg
+	Quasar 570		ctcaggagaaagttggcagc
+	Quasar 570		tgagccaaagacctttggat
+	Quasar 570		ctccttgacatacagagact
+	Quasar 570		agccatagatagtccaatct
+	Quasar 570		gttggtcccattaataagta
+	Quasar 570		cctgtggaatgccaaaagga
+	Quasar 570		tgatggatctgaccatgata
+	Quasar 570		ttgtgcagaatggggaaggg
+	Quasar 570		ccaaggcattggtggatatt
+	Quasar 570		gtgcgatagagctctagtaa
+	Quasar 570		cccaacttgagttgtctcaa
+	Quasar 570		tcaccttctcctacaatgaa
+	Quasar 570		tgtgctttgctgttgatagt
+	Quasar 570		ctgtcctatggcttgttcag
+	Quasar 570		ttgttcttcccatgtctctt
+	Quasar 570		cagggtaagatagcagggtc
+	Quasar 570		agggaggttctatcaggtgg
+	Quasar 570		tgtaacctcaaatcgtgggt
+	Quasar 570		atctccttccaagcatgttc
+	Quasar 570		tgaggtgcttcctgagaaat
+	Quasar 570		agagttgactggtcacatct
+	Quasar 570		atgggggagttagagttctc
+	Quasar 570		tgatgtcgatggacgtctcg
+	Quasar 570		caggaactcgtcgttgaagg
+	Quasar 570		tactcgttgctgttcttgtc
+	Quasar 570		tcattgtcactggtcagctc
+	Quasar 570		cttgaccaaggagctctctg
+	Quasar 570		tttcaggaggcaccggaatc
+	Quasar 570		ctcatcttagacgcaccaag
+	Quasar 570		cctaaatactagagttgccg
+	Quasar 570		ttgcatttccaaggcacaag
+	Quasar 570		ctactcagtaggcattggag
+	Quasar 570		atgacaaggcacgatttgct
+	Quasar 570		ttctaaggacaggcgtggag
+	Quasar 570		aacaaccttaggttccaagc
+	Quasar 570		tccaccttcatgtagaacta
+	Quasar 570		agaggcgtggaactagagac
+	Quasar 570		tagctttctggtgtgactcg
+	Quasar 570		tatacatcctcagagctgac
+	Quasar 570		taggcaatgctgaaggcata
+	Quasar 570		tctgggatggactgatcgtg
+	Quasar 570		acagaggccagatacaagtg
+	Quasar 570		attgcacaaggcactgctgg
+	Quasar 570		tagcagagacgcgcacattc
+	Quasar 570		tctcattttggcaagtatcc
+	Quasar 570		aggaaagggagtctcagacc
+	Quasar 570		cccccaggatcaaaagtaat
+	Quasar 570		ggaaagctgagggcaaagga
+	Quasar 570		cgttctccccaaaagaagag
+	Quasar 570		aacactgagaagcgtgcagg
+	Quasar 570		aacgggtcagagatctgcag
+	Quasar 570		tgggcgagtgaggaaaggat
+	Quasar 570		aaaagcggccagtataggtg
+	Quasar 570		acaaggtgttgccactgttg
+	Quasar 570		aaatgggactgctgtcgttg
+	Quasar 570		aaaatgtcagtgttcggcgt
+	Quasar 570		ggatcatgggaacctggaag
+	Quasar 570		tgctgtggaaacaggtagtc
+	Quasar 570		agacagaggggttagcgaag
+	Quasar 570		tgagtggcaaaggccttaat
+	Quasar 570		agaagcggcgatcacaggac
+	Quasar 570		tgaagttgcgcatgcagatg
+	Quasar 570		tggcaaactttcttccacag
+	Quasar 570		cgcaagtggatcttggtatg
+	Quasar 570		gacgggtaagaggtagcaac
+	Quasar 570		ggggatggataagaggtagt
+	Quasar 570		cacaggggatgggtatgagg
+	Quasar 570		aaagcagggggaacagagga
+	Quasar 570		gaggaagggaagctgctgac
+	Quasar 570		gctgaaggagttggtgacag
+	Quasar 570		gttgctgtcatgtccgaaag
+	Quasar 570		atttcaattgtcctgggaga
+	Quasar 570		tccatctgacctaagaggaa
+	Quasar 570		cagtagagagggaggacttg
+	Quasar 570		aggattgttggccaatagac
+	Quasar 570		aattggggaaggggaagtgg
+	Quasar 570		gcagctgaagtcaaagggaa
+	Quasar 570		aacttggacatggctgtttc
+	Quasar 570		agttctttggatagaggtga
+	Quasar 570		caggcatatgatggagatga
+	Quasar 570		agcattgaagggagcaaggg
+	Quasar 570		ccattttgccaactcgattt
+	Quasar 570		aaatccatggcacagacact
+	Quasar 570		agaggatcaccattggtttg
+	Quasar 570		attgtcacagcatcatcaca
+	Quasar 570		acaacactctgacacatgct
+	Quasar 570		acggtcaagcagtatttaca
+	Quasar 570		catattttgccacatgtgag
+	Quasar 570		gcaccaagacgtgaaacttt
+	Quasar 570		agcaaggcgcatcacacaaa
+	Quasar 570		acaattgcacatgtcaagcc
+	Quasar 570		taaggctagaggtgagcatg
+	Quasar 570		tccttattttgctcccaaag
+	Quasar 570		tctggagaaccgaagctcag
+	Quasar 570		gcctactcagtaggtaacta
+	Quasar 570		gccaaacagtcactttgttt
+	Quasar 570		tgggcaataaagcgcattca
+	Quasar 570		actgtaatccgtggacgc
+	Quasar 570		gctgcagcttggctatag
+	Quasar 570		ggtgtaagcactgtagcc
+	Quasar 570		tatccttgagtgggctgg
+	Quasar 570		tatgcctgggtggtctgt
+	Quasar 570		ctgtccataggttccata
+	Quasar 570		cctgggtatagctgacat
+	Quasar 570		cataggttgcagtggtct
+	Quasar 570		agttgcataggcggtctg
+	Quasar 570		gtgggaggctgtccataa
+	Quasar 570		ctgtactggtcccttcta
+	Quasar 570		ggggcagttggagtagta
+	Quasar 570		tggacaggctggctgtat
+	Quasar 570		cataagcaccagtgccat
+	Quasar 570		gggtggtggtgactgtag
+	Quasar 570		ctgagctgcataggaggc
+	Quasar 570		cccataggctggataagc
+	Quasar 570		ttccatcctgcggtcttg
+	Quasar 570		actagtctcagtgggctt
+	Quasar 570		ccctgtgctagattgagg
+	Quasar 570		aggctgggctggttgtaa
+	Quasar 570		ctgtagttactctgtcca
+	Quasar 570		cagtgactggctgcatgg
+	Quasar 570		agctggtaggagggtagg
+	Quasar 570		agtcggctgtgtagagga
+	Quasar 570		gctgagagtaactgctct
+	Quasar 570		cggttgcccataggtgtt
+	Quasar 570		tactctgctgtccatagc
+	Quasar 570		agctgctttgttgaccat
+	Quasar 570		aactagtgggaggctgct
+	Quasar 570		aggatccagtttggggtg
+	Quasar 570		ttgacttggagcttggct
+	Quasar 570		gtagctgctgctctgttg
+	Quasar 670		ctcctcttctgactgagt
+	Quasar 670		attcatgttattgcccca
+	Quasar 670		ggacttttgttgaggcca
+	Quasar 670		tactgatcgtttgtgccc
+	Quasar 670		gggccgttgctctgtatt
+	Quasar 670		cccaggatctgatacgga
+	Quasar 670		ttggctaggcgactgctg
+	Quasar 670		attgccacagctggatct
+	Quasar 670		ggagagcagctccaggag
+	Quasar 670		caggtgatacagctggcg
+	Quasar 670		tcattttgaactccccgt
+	Quasar 670		tgttgggcttgcttttcc
+	Quasar 670		gctcagcttgtcgtaatt
+	Quasar 670		tagtaataacggagggcc
+	Quasar 670		cttttgccgtgcactttg
+	Quasar 670		gcaatgccgtggaagtca
+	Quasar 670		gatgtggctgcagagcct
+	Quasar 670		gtacatggacgactcggt
+	Quasar 670		aggagatgtcagaagggt
+	Quasar 670		ggcatggtaggaaggcat
+	Quasar 670		aagttcaccttctgctgg
+	Quasar 670		aggatggatggggaggga
+	Quasar 670		ggaggaagtgacaggcat
+	Quasar 670		gatgcggctccaaagaag
+	Quasar 670		tgggggaggtccagtatt
+	Quasar 670		tggggttggggtagattc
+	Quasar 670		gcacgtgggtgttaggat
+	Quasar 670		gtagctgcctaagtgtga
+	Quasar 570		aaaaacccagtcatgcggtg
+	Quasar 570		tcacaggattcctttcattc
+	Quasar 570		ggagttgtaaggcgagcttc
+	Quasar 570		ctgcgctgagttttgttgtg
+	Quasar 570		atccacagacatgtttgcag
+	Quasar 570		cgcttgatctttagagcttt
+	Quasar 570		tagccacggtttttgagtgt
+	Quasar 570		ggacttgacgatggtgatga
+	Quasar 570		agtgctgcagagaaatggga
+	Quasar 570		acgaagggaatgtgtgtgca
+	Quasar 570		ctgcaagaggaagacagggc
+	Quasar 570		aactttcagccaagggcgat
+	Quasar 570		caacagctgttctctaagcc
+	Quasar 570		agtttccaagatgaggggtg
+	Quasar 570		gagggcatattggcacaata
+	Quasar 570		ctagctttgaatcctgggag
+	Quasar 570		cgtaagtcacagacagccaa
+	Quasar 570		ctcttcagtgcaatttctca
+	Quasar 570		ctcttttagtttcggaaggc
+	Quasar 570		cacatttctgagtccctgtc
+	Quasar 570		agactgtagtaggactgcag
+	Quasar 570		gacactgacaggggttgagg
+	Quasar 570		tcccaggagaatgacaatca
+	Quasar 570		gctggggagaataacttaga
+	Quasar 570		acagaagacgataactcgct
+	Quasar 570		ttgtgttggtcagcgaca
+	Quasar 570		gcaggtctaagatgtcct
+	Quasar 570		ctcctcatcgttggtgtc
+	Quasar 570		cgttctcttcctccggac
+	Quasar 570		cttcaggggcaggctctg
+	Quasar 570		gctgctgtcgtagaaggg
+	Quasar 570		cagcgcgtgtacgggttg
+	Quasar 570		gagtactgaaggccctcg
+	Quasar 570		cttggagcttgagtcctg
+	Quasar 570		cttgtcattgtccggtga
+	Quasar 570		gaaaagcactcgccgctt
+	Quasar 570		ctccagctcgtaggtctg
+	Quasar 570		taccgctgctgccgaaag
+	Quasar 570		gatgaggctggccaggtg
+	Quasar 570		ttgacctgcgtgggcgtg
+	Quasar 570		ggtggttctggaaccaga
+	Quasar 570		ggcgcgcttcatcttgta
+	Quasar 570		tcacctccatacctttct
+	Quasar 570		tgaccaagacgggcacgg
+	Quasar 570		gtgacatggtttgccgtc
+	Quasar 570		caggtcctgggctttgag
+	Quasar 570		catgtgctgcagcgactg
+	Quasar 570		ctgtactgggcgttgtac
+	Quasar 570		gtgtgctgtcgggtactg
+	Quasar 570		tcaccaagtccactgctg
+	Quasar 570		cgagtctcgttggggcgg
+	Quasar 670		ctcggcagccaagttttg
+	Quasar 670		ttcactcccagcgtccaa
+	Quasar 670		tacggatccgagtgaggg
+	Quasar 670		ggacatcctatacaggtg
+	Quasar 670		aggcttgaagaggagggc
+	Quasar 670		agaccaagttctttcccg
+	Quasar 670		agcccctgggaggtatag
+	Quasar 670		gtccgggttgacatcata
+	Quasar 670		acgaggctcgctggctac
+	Quasar 670		agctatttatacccgggc
+	Quasar 670		ctctatgatcgcgcaggg
+	Quasar 670		cctgcactgcacaaagcg
+	Quasar 670		tttcgggccttctagaca
+	Quasar 670		ttttgggggctttcgttt
+	Quasar 670		ctcggccatttaaggcag
+	Quasar 670		cttaagcggtttcctctc
+	Quasar 670		atcatcgcgggttaaggg
+	Quasar 670		atttggggggggaagtgg
+	Quasar 670		gctcacatagtgtgggtg
+	Quasar 670		aggggctcgcctttcaag
+	Quasar 670		aatccgtaggagtggggg
+	Quasar 670		acctcccagggtaaagag
+	Quasar 670		cgcctgacgaagacgtcg
+	Quasar 670		tgcaccagactcggagca
+	Quasar 670		cgcgtcaggcgtctggag
+	Quasar 570		tagtttctaactccaggagg
+	Quasar 570		aaagcacgcggaaatggacg
+	Quasar 570		ttgtagcttcacttggtcaa
+	Quasar 570		ccccaaaatttatgtcgcaa
+	Quasar 570		ttgtgttggtcagcgacatg
+	Quasar 570		caggtctaagatgtccttga
+	Quasar 570		tcgtagaaggggttcttcag
+	Quasar 570		cttggagcttgagtcctgag
+	Quasar 570		ttgtcattgtccggtgactc
+	Quasar 570		ttggagaaaagcactcgccg
+	Quasar 570		tggaaccagatcttgacctg
+	Quasar 570		cttcatcttgtagcggtggt
+	Quasar 570		tgagcgcgtgacatggtttg
+	Quasar 570		ttgtactgcatgtgctgcag
+	Quasar 570		tagtggagccgagagtcaac
+	Quasar 570		aatctgccactccaaggaga
+	Quasar 570		ctgtaaacacggcgtagagt
+	Quasar 570		agaagcgaagctgcgcaaac
+	Quasar 570		gacgacattaacgctgggac
+	Quasar 570		ggtctttttctcgttttcaa
+	Quasar 570		gctgacaatatcgctactca
+	Quasar 570		cagaacgtttacatggccat
+	Quasar 570		aaagcgaaatctgccaccag
+	Quasar 570		tcaccaccgatatttacaac
+	Quasar 570		cctgaaggtcattttggcaa
+	Quasar 570		agaaaggagttggacccaga
+	Quasar 570		aatagctgagctccaagttc
+	Quasar 570		ttctttttcagctcagtcac
+	Quasar 570		ggtcctttacgagtgtgaaa
+	Quasar 570		gcaaagtagtagtctcgtgg
+	Quasar 570		ttctcatagtagtgctgctg
+	Quasar 570		acaggtagtagatcctcttg
+	Quasar 570		cgtcccatatagaactctaa
+	Quasar 570		ttcaccatggtgttctgtag
+	Quasar 570		cgtcacaggcattctctaag
+	Quasar 570		ggagtcaagaaagcaggctg
+	Quasar 570		aagtgcacaggtagcgtgaa
+	Quasar 570		aacattgttgcgatagccag
+	Quasar 570		tgaagtcattgggagccttg
+	Quasar 570		ccgacattgaagtccttgag
+	Quasar 570		caacacagcctggatgtagc
+	Quasar 570		caggacacgagagatgttct
+	Quasar 570		tccttcccttcgaagaaatt
+	Quasar 570		cgacggatgatgtcctggag
+	Quasar 570		gccgaacttggaagacttga
+	Quasar 570		ggaaggcatcgaagttcgtg
+	Quasar 570		ggtgtcattgagctggatgg
+	Quasar 570		cgtagatgatctggaggtgc
+	Quasar 570		ttgaggaagcgctggttgat
+	Quasar 570		atggtcttcttgaggatctc
+	Quasar 570		ccagctcatagaagtctttg
+	Quasar 570		gttggtcttattctggaact
+	Quasar 570		tccaggtcagagatgaagtc
+	Quasar 570		tccacaaaggagagcagttt
+	Quasar 570		catcccgaatgaaagcttca
+	Quasar 570		ctaggtaggcagcaaacttc
+	Quasar 570		tgatgtggactttgtattcc
+	Quasar 570		atgtcgaagagtgagttggg
+	Quasar 570		atattcgtgaatccgcttca
+	Quasar 570		aaaaacttattgggctccct
+	Quasar 570		tccaatcatcacagtccgag
+	Quasar 570		agtctgatgatcatcttggc
+	Quasar 570		aggaagatgacacggaggcg
+	Quasar 570		cagtgagactcggtagttct
+	Quasar 570		gtggagatctgctcagagag
+	Quasar 570		ccgttgagcatgaacttcat
+	Quasar 570		catggtgccaatggtcagag
+	Quasar 570		cgaagctcaggaatgcgatc
+	Quasar 570		ctgtttgggggagaagaagc
+	Quasar 570		caatgtccttgaacaggtcg
+	Quasar 570		tcatggtgcatgagcatatt
+	Quasar 570		gtagtcttcataatctgcga
+	Quasar 570		tgactttctcctggcattta
+	Quasar 570		tctcttgggttcttgtacaa
+	Quasar 570		cactggagaacttgccagag
+	Quasar 570		aaacgggttacatcataccc
+	Quasar 570		agactccactgcaaataggg
+	Quasar 570		acaatgaggtgcctgtactg
+	Quasar 570		gatgcaggcgttgcagaaag
+	Quasar 570		tacggtccactggacatgtc
+	Quasar 570		agatgggcgaccgtcacaac
+	Quasar 570		acaacatgttccgcatgatc
+	Quasar 570		ttgtcacaggcaatctgcag
+	Quasar 570		aacggcactacagccgaaca
+	Quasar 570		gagacatgaggttgtcaagc
+	Quasar 570		ttgtgctcacagtcgctgag
+	Quasar 570		tcatctttgggcatctccag
+	Quasar 570		ggtgcttaatgcagttatgg
+	Quasar 570		tgtttgtgttcagctgacgt
+	Quasar 570		tttagcagctggatgtctcg
+	Quasar 570		gcggattgcacgcatgtatg
+	Quasar 570		ttctgaaggttggggttgac
+	Quasar 570		gttgtattcaattgtctcct
+	Quasar 570		agttcacccactctaggatc
+	Quasar 570		gtcactcttgctggctgaag
+	Quasar 570		catcaggagtcgagatcatc
+	Quasar 570		cagggagcgcttgattacag
+	Quasar 570		caatagaagcaggacagcca
+	Quasar 570		tcgtgggcattttcaatcag
+	Quasar 570		catctgtctagtctctagtg
+	Quasar 570		tagttctcatagtagcgtcg
+	Quasar 570		atcacgacaacagcctgctt
+	Quasar 570		catgtgctggttctcacagg
+	Quasar 570		aatatcatgacaaggcctgg
+	Quasar 570		tatatctcttccacgccatg
+	Quasar 570		ttaaggactctgggttctga
+	Quasar 570		ttcgtagcgccattgtaaac
+	Quasar 570		ccaaagcagggagtatctta
+	Quasar 570		ccgaatcattttctgagtgc
+	Quasar 570		aatcctcaactctttgggac
+	Quasar 570		acatttttggggaaccactg
+	Quasar 570		ccaagcagtttctaaggttc
+	Quasar 570		ttcctgttgatttgcagtag
+	Quasar 570		ccactcataccaagagtttc
+	Quasar 570		gcaaaatctgtatagcaccc
+	Quasar 570		tcttgcagtaagtgcattca
+	Quasar 570		gatggtttctttttcagctc
+	Quasar 570		aatctcctttcacgtgatca
+	Quasar 570		agtttttggttgatcacctt
+	Quasar 570		cttctgagagttgagtcagg
+	Quasar 570		ggatagctttgcagctatta
+	Quasar 570		gaggtcttttcttacagtgt
+	Quasar 570		gattaagttttggtggctct
+	Quasar 570		attgaaaaccaccgtgttgc
+	Quasar 570		atcccttgagcaatactttt
+	Quasar 570		tttcttggtggcaactgatg
+	Quasar 570		aactggttgcaatactccac
+	Quasar 570		gtgtcaactgtgttgcaaca
+	Quasar 570		tacaactgtgggcttctttt
+	Quasar 570		cgcatattgtgccatacata
+	Quasar 570		ttccatattttggtcgagga
+	Quasar 570		tgcataatggacctcgtttg
+	Quasar 570		ttatctgagtgagtggtgga
+	Quasar 570		agctgagtgaatccaatggt
+	Quasar 570		gattggcattcaccgttaac
+	Quasar 570		caacctgctgaaaccgtatt
+	Quasar 570		agtctctgatgcatgagttg
+	Quasar 570		ttcatgagagataccaggca
+	Quasar 570		ctgagagttagtgctgactc
+	Quasar 570		accggtgtacactactattt
+	Quasar 570		aacccacttagcaattggac
+	Quasar 570		acattctcgggcaacatttt
+	Quasar 570		acaggctgagtgaaacacgt
+	Quasar 570		gattcggggaataggtttct
+	Quasar 570		ctaaggttggcagtgacgaa
+	Quasar 570		ggttcggtttcactttttac
+	Quasar 570		ttctttctgaaaacccgcat
+	Quasar 570		gaattaatgaggggctccat
+	Quasar 570		tgaggagaggtgaggaagga
+	Quasar 570		ccattggagaagaggcaagg
+	Quasar 570		tcaatgtggggcaatttctc
+	Quasar 570		caatcaaaaccgagccgtga
+	Quasar 570		ggacacggtgacaacattgt
+			CAGACTCTTCCCGCTGGT
+			ATCCTGAGTCTGCTGGAA
+			GCTGCTACCTTACGCCGAAGTAACCGAACGGTGAACT
+			GCGTTGAGCTGGCTGTTGGACCCTTATGTCTGGCTG
+			ATTAGCTGAAGCGGTTTTC
+			GGCGTCCATCCTGAGTCTCCAGACATAAGGGTCGTG
+			CCTGCGAACAACCAGTTCTTTGAGACCCTCAAGATAATCG
+			GGAAACCGCCAAACTCAA
+			GGACGGATGCAGTTTTCC
+			CGGGCTATCGTTCTTTGT
+			ATGAGATGATTCTTGAGGTCGG
+			CCAGCTGATTATTAGAGACACC
+			GGGAAATGGCGGTTTCAA
+			TCCGGCAAAGAACTCAGCCGGTTACGAGATTGCCTGG
+			AATTACCGGAATTACCGCAGA
+			GGTGTGAAGAGCCCCCGTGTG
+			GGTGTGAAGACTCGCATGTGC
+			GGTGTGAAGAGCCNANTGYGCTC
+			GGTGYGAAGANCCNANTGTGC
+			GGTGTGAAGACYTGCATGTGC
+wobble			GGTGTGAAGAGYCNCGTGTGCT
+			CCAAAGTAGTYGGTYCCRTCCC
+			CATATAAGCATGCTATATTAAAAGAGTCTC
+			CCTATTTCTGCAGCATATTTGTAATCAG
+	BHQ-1	FAM	gGGAGGAAATGGAGAATGAAGTTGctccc
+	BHQ-1	FAM	cggGGAGGCAGCCATTGAGACccg
+	BHQ-1	FAM	caCCCAGGGGAAAGCCATTGAGacGGGTG
+	BHQ-1	FAM	gcgagAGTGCCCAGCCCTCCCTCGC
+	BHQ-1	FAM	AACAGTACGTTTCACTGGAGCAAAATCAA
+	BHQ-1	FAM	TAAGTACATCAATCACACCGCGACCCGCTT
+	BHQ-1	FAM	CAGCGGCAGCGGCAGCAA
+	BHQ-1	FAM	CTTGCTGCCTCCGCCGCC
+	BHQ-1	FAM	CCGGCATGCAGAACACTGGCTAGAG
+	BHQ-1	FAM	CAAGGTGGAGAAATTCCTGGCTTGATGC
+	BHQ-1	FAM	CTCGCGATTGCGGGCTACCTACTCT
+	BHQ-1	FAM	CCGTGTGGAGAGAGAGCGATCTATGCA
+	BHQ-1	FAM	CATCCTTACAGCCTGTGGCGCCC
+	BHQ-1	FAM	TCAGGACACCGTGGCATCTGCCT
+	BHQ-1	FAM	ATGATGCGCCCATTCCTATGGCC
+	BHQ-1	FAM	ATCCAAAGAAACCAGCAGGCGGC
+	Quasar 670		aagttcattagttgtcaagc
+	Quasar 670		agtgtgtagctatgggaatt
+	Quasar 670		agttcactaaaagttattaa
+	Quasar 670		tcaaaatgataattttagga
+	Quasar 670		gatttaaatttattcctcct
+	Quasar 670		acatataaaccaattagatt
+	Quasar 670		taatatctcgtagtttagtt
+	Quasar 670		cgagaaaaaaagtgtcaaaa
+see 336409 for syn. info. dw	TAMRA	FAM	ACTGCTGACGCGGCCAAACACTG
+see 336409 for syn. info. dw	TAMRA	FAM	ACTGCTGACGCGGCCAAACACTG
+see 336409 for syn. info. dw	TAMRA	FAM	ACTGCTGACGCGGCCAAACACTG
+	Quasar 670		atttcaaaggatcagtccca
+	Quasar 670		tttctctgttccatcaatct
+	Quasar 670		ttgcctattggttcattgat
+	Quasar 670		acactgtagtcttggttcta
+	Quasar 670		gctggatatcttgcagacaa
+	Quasar 670		catctgtttttactccttgg
+	Quasar 670		acctgtacactaagctgtac
+	Quasar 670		actttggttcaattccttgg
+	Quasar 670		gtccgcaggtttaacaattt
+	Quasar 670		catcttgtcacttgttctga
+	Quasar 670		cgttcttgttctttcctata
+	Quasar 670		cactgtatgggatcataggg
+	Quasar 670		gagtgtggtgaggtctatat
+	Quasar 670		acataattctctccccgaaa
+	Quasar 670		tccagatgactccagagaat
+	Quasar 670		atctgttgttcttgacttgc
+	Quasar 670		tagtaggtgtagcagattgc
+	Quasar 670		gcttctatcttctcctgaaa
+	Quasar 670		tcaccaacccaagaaatgca
+	Quasar 670		aaccagttcaggctgattta
+	Quasar 670		aggcttatttttacgctgtc
+	Quasar 670		ctcttgccttgaactttaca
+	Quasar 670		acattctgtgaccaaacggt
+	Quasar 670		gcatctttgcaagtttcttc
+	Quasar 670		aattatccttttccgtttgc
+	BHQ-1	CAL Fluor Orange 560	TGTCCAGCTTTGTGCCAGGAGCCT
+	BHQ-1	CAL Fluor Orange 560	5-GG-9-5-GGA-5-5-5-A-5-5-A-5-5-GAGGA-5
+	BHQ-1	CAL Fluor Orange 560	9-AG-9-5-5-5-AA-9-5-G-5-9-5-5-9-5-9
+	BHQ-2	Quasar 670	cgGGTCCAGAGGATCGCTCTCTCCCg
+			GAAGGAGGCTGTGGCTGCT
+			GAAGGAGGCTGTGGCTGCT
+			GAAGGAGGCTGTGGCTGCT
+			GTGTGGTCCAGGTCGGTCA
+			GTGTGGTCCAGGTCGGTCA
+			GTGTGGTCCAGGTCGGTCA
+			GGATGCTACCACCCCCAAGTA
+			GGATGCTACCACCCCCAAGTA
+			GGATGCTACCACCCCCAAGTA
+			TTCTTGAGGTAGGAAGAAACCTCCTT
+			TTCTTGAGGTAGGAAGAAACCTCCTT
+			TTCTTGAGGTAGGAAGAAACCTCCTT
+			TGGTGGAGAAAACCATTCGC
+			TGGTGGAGAAAACCATTCGC
+			TGGTGGAGAAAACCATTCGC
+			GGCATAAAAGCGAACATCAACAT
+			GGCATAAAAGCGAACATCAACAT
+			GGCATAAAAGCGAACATCAACAT
+			CGAGGCCAAGGAGGGAAT
+			CGAGGCCAAGGAGGGAAT
+			CGAGGCCAAGGAGGGAAT
+			TGATAGATTTTTTATTACTGCAAAATTGATC
+			TGATAGATTTTTTATTACTGCAAAATTGATC
+			TGATAGATTTTTTATTACTGCAAAATTGATC
+			ACGCTCATCCTCACCATGAAG
+			ACGCTCATCCTCACCATGAAG
+			ACGCTCATCCTCACCATGAAG
+			AGACGAAGACGAAACAAAATGAAAG
+			AGACGAAGACGAAACAAAATGAAAG
+			AGACGAAGACGAAACAAAATGAAAG
+			ATTGGGAGCGTGGAGGAAGT
+			ATTGGGAGCGTGGAGGAAGT
+			ATTGGGAGCGTGGAGGAAGT
+			GCGCGCGCGATTTAGA
+			GCGCGCGCGATTTAGA
+			GCGCGCGCGATTTAGA
+			TTGGGCTGGTTGTACTGTACGT
+			TTGGGCTGGTTGTACTGTACGT
+			TTGGGCTGGTTGTACTGTACGT
+			TCTTTTTTCCAAAGAAATTACACTGAAC
+			TCTTTTTTCCAAAGAAATTACACTGAAC
+			TCTTTTTTCCAAAGAAATTACACTGAAC
+			GGAGAGCTGTAGTTTTAGGACATCTGA
+			GGAGAGCTGTAGTTTTAGGACATCTGA
+			GGAGAGCTGTAGTTTTAGGACATCTGA
+			TGTGGCCCATCCAATTGC
+			TGTGGCCCATCCAATTGC
+			TGTGGCCCATCCAATTGC
+			GAGGTTAAAAGAAGCTGAGGAGTTCA
+			GAGGTTAAAAGAAGCTGAGGAGTTCA
+			GAGGTTAAAAGAAGCTGAGGAGTTCA
+			CGGGCGAGACAGATTACGA
+			CGGGCGAGACAGATTACGA
+			CGGGCGAGACAGATTACGA
+			CCGAGAGCCAAAAGTATTAAAGGA
+			CCGAGAGCCAAAAGTATTAAAGGA
+			CCGAGAGCCAAAAGTATTAAAGGA
+			GCGGATGCTGGCACAGA
+			GCGGATGCTGGCACAGA
+			GCGGATGCTGGCACAGA
+			GCATTGCTTCCTTCGCCA
+			GCATTGCTTCCTTCGCCA
+			GCATTGCTTCCTTCGCCA
+			GCGGATGCTGGCACAGC
+			GCGGATGCTGGCACAGC
+			GCGGATGCTGGCACAGC
+			GGCATTGCTTCCTTCTCCG
+			GGCATTGCTTCCTTCTCCG
+			GGCATTGCTTCCTTCTCCG
+			AGGTGGCGGCATGTTCA
+			AGGTGGCGGCATGTTCA
+			AGGTGGCGGCATGTTCA
+			CAGCATGCGCCAACACA
+			CAGCATGCGCCAACACA
+			CAGCATGCGCCAACACA
+			AATAAAGCTTGCCTTGAGTG
+			TCTGAGGGATCTCTAGTTACCA
+			GGGAACCCACTGCTTAA
+			ACCCGCTGCTTAACG
+			GGCAACAGGATTCAATCTTAAGAAA
+			CGGCAACAGGATTCAATCTTAAG
+			TTTTCTACTTGAGCCTGTGTAGGAACT
+			GGAATAAACTCACTGCCAGCCAGT
+			ATTGCGGGACTCTAATCA
+			ATCCGTTCCGATATTTGTCATG
+			AGTGGAAAGAGGATGAGATGCTATC
+			GAGCAGATGAATCGTCCTGTCAT
+			CTTCTGGGAACCCTCAACATCT
+			ACGTTGTACCACTTAGTTTGTGAGA
+			GATGCTTTTTGTTCGCTTGGTTG
+			CGCAGATACAGATCCAGCAT
+			GCATTCTTTCTTTGCTAGCAGG
+			CCAGAACTTACCTTCCTGTTCA
+			TGTACGACGCGTTCGCA
+			TTCACGCACTGCGGCTGGAA
+			TCCACAATCTGATTAGCAAGCT
+			TCCCACTGGAATCCACCCAA
+			AACTGCATGATCCAGGATCTC
+			CCACCTTTTTTTGTTCTGTTGT
+			ATGGGAAAGACTTCAGGTGC
+			TTGTGCTTGATACCAGATTCG
+			TACGAATTGAAGATGATGGATGG
+			GATGCTTTTCGTTGCTTACG
+			TTTACTCTGGGTCTCCCTGTCA
+			ACTGTGTTCAAGAACAAAGGATCT
+			CAGCTGCAGGGGATGCGATA
+			TGGCCTTGTTCAAGTTCGAG
+			ACCGGCAACTTCAACGAG
+			AACACTTTTCGTTGGGTTTGT
+			GGAAAGACAATTTATTGAGAAAGCC
+			TGTTGAAAAGGACCTCTGGTGT
+			CACAAACAGATGAACAATTGATACG
+			AGGGAGAATTGTCCAAGGAA
+			CTTGCTATCTCGCCTATCTGC
+			GAAGGAATTGAGCGAGGTAAAG
+			CTTCCTGTATGTACTTGGCGTT
+			GCTGGATGATCTTGTTAGAAGG
+			CAAAGCAACCATATCAGTCACA
+			TCGTAGCTCTTGTTGCCCA
+			GATAATAATCTTGTGTAGGCGAAAG
+			AACGATCGCCTCGGACA
+			GCTCCGAGCTGTTCTCAGGATA
+			ATAGACGAACTCGGTATCCGA
+			CGCATGAACTCGGTGATGAC
+			GGCCTGCAGGTGATTAGCTAA
+			CCGTAATTTTTGGATTCGAATTG
+			GCAAGAAAATTCAAAGAAGATCGAT
+			ACCTTTGAACTTCTTTGATTGTACCA
+			CTCAGTCAGGAGTTGGAAATGGT
+			GCCTGGGACGTATGTGATGA
+			GTACCGCAGCATTCCATTCAG
+			CAGCCGGGCTCATACTTCTG
+			GGTTTCGGTGCTCACATTCATTG
+			TGTGCATTCCCAGTCTCTGTTC
+			TCCGCATGTTCCCACGATA
+			GGGCTCCAGTAATGAACATGGA
+			GCAGCCCTGATCTGCTGTT
+			TCCCGGTCCATGTTGGAAC
+			TGCAGCAACTCCTCCAAACTAG
+			GACACCCACAGGTCACAGACT
+			GCCGAGGATGAAGGAAAGC
+			CCCACGGCTGTCTGTTTGAC
+			GCCTGGCACTGTCCAAACAAG
+			CCTTGCAAACAGCACTCTGTCTT
+			CTCCAGCTCCTCACATTCCT
+			TGACCACAGAGACAGCTATTATGC
+			GCTCGGGAGGACTTGTGAC
+purity	BHQ-2	CAL Fluor Red 635	GTGGGGACACGGAAGGCCAT
+			TCCGCATACCAGTTGTTGTCG
+	BHQ-1	FAM	5-GG-9-5-G-5-9-5-AAA-9-5-G-5-9-9-A-5-A
+			CGCACTGTATGAGCAACCGGCA
+			CGCACTGTATGAGCAACCGGCA
+			CGCACTGTATGAGCAACCGGCA
+			CGCACTGTATGAGCGACCGGCA
+			CGCACTGTATGATTGACCGGCA
+			CGCACTGTATGAGCAACCGGTA
+			ATTTGACAGTCAGGTGAATGG
+			ATTTGACAGTCAGGTGAATGG
+			ATTTGACAGTCAGGTGAATGG
+			CCACGCATTTGTCGTCCG
+			CCACGCATTTGTCGTCCG
+			CCACGCATTTGTCGTCCG
+			CCACGCATTTGTCGTTCG
+			CCACGCATTTGTCGTTCG
+			TGCAATCGATCCAGACGGC
+			TGCAATCGATCCAGACGGC
+			TGCCGTTGTTATTTGGCATA
+			TGCCGTTGTTATTTGGCATA
+			TGCCGTTGTTATTTGGCATA
+			TGCCGTCGTTATTTGGCATA
+			TGCCGTCGTTATTTGGCATA
+			TGCCGTCGTTATTTGGCATA
+			TGCCGTCGTTATTTGGCATA
+			TGCCGTTATTATTTGGCATA
+			TGCCGTTATTATTTGGCATA
+			TGCCGTTATTATTTGGCATA
+			TGCCGTTATTATTTGGCATA
+	BHQ-1	FAM	A-9-A-5-9-A-5-5-9-5-5-A-9-9-5-GG-5-9
+	BHQ-2	Quasar 670	5-G-5-9-9-A-9-9-AAG-5-9-AAGAG-5-9
+	BHQ-1	CAL Fluor Orange 560	AAGCACCACTGCAACGGCAACTCTT
+	BHQ-1	TET	TTTAGTAGAGCTAGCTGAAGAC
+	BHQ-2	CAL Fluor Red 610	AGTAGTGTGTGCCCGTCTGT
+	BHQ-2	CAL Fluor Red 610	TCAATAAAGCTTGCCTTGAGTG
+	BHQ-2	CAL Fluor Red 610	AGATCGCGGTCTCCTGTCCA
+	BHQ-2	CAL Fluor Red 610	tacgatTGGGGTCGTTCTACATTGACAGAATCCatcgta
+		HEX	TTTTTTTTTT
+	BHQ-1	CAL Fluor Orange 560	TGGGAGGGCGATCGCAATCT
+	BHQ-1	TET	CTAGGTACGATGAAATCG
+wobble	BHQ-2	CAL Fluor Red 610	AGATYGCGATCYCCTGTCCA
+			TGCAATCGATTCAGACAGC
+low yield - 2/24/2015 sm		HEX	CATAATTATTGCTTTAAAGGTAGCTAGGATT
+		HEX	CATAATTATTGCTTTAAAGGTAGCTAGGATT
+		HEX	CATAATTATTGCTTTAAAGGTAGCTAGGATT
+		HEX	CATAATTATTGCTTTAAAGGTAGCTAGGATT
+low yield - 2/24/2015 sm		HEX	CATAATTATTGCTTTAAAGGTAGCTAGGATT
+		HEX	AGCCTGGAAGGTCGAAGCTGA
+low yield - 2/24/2015 sm		HEX	AGCCTGGAAGGTCGAAGCTGA
+		HEX	AGCCTGGAAGGTCGAAGCTGA
+		HEX	AGCCTGGAAGGTCGAAGCTGA
+		HEX	AGCCTGGAAGGTCGAAGCTGA
+		HEX	AGCCTGGAAGGTCGAAGCTGA
+		HEX	AGCCTGGAAGGTCGAAGCTGA
+		HEX	AGGCAAAATTCAAAGGGTATCTG
+		HEX	AGGCAAAATTCAAAGGGTATCTG
+		HEX	GGACCTTGTGATAATGTAAGATAG
+		HEX	GACTATGGGCGTGAGTGCAT
+		HEX	TGTCTCACTTCAAGCACCAAGC
+		HEX	TGTCTCACTTCAAGCACCAAGC
+		HEX	GCAACAGGAATGAAACTCCAAT
+		HEX	TCATATTTCTGGCCGGTCTGG
+Base Swap		HEX	ATTCTAGGAAGATTAGCCACAACA
+		HEX	CATGAGGTTTGCAAATACTATCTTAAC
+low yield - 2/24/2015 sm 		HEX	CCCAAAATTACTTGAGCCAAT
+		HEX	AGATGGGAACGATGCAGACA
+	BHQ-2	Quasar 670	TCGTGAAACAGCTCGCTATCATGG
+see 336420 for syn. info. dw			CGGGTCCAGATGGCTTGC
+see 336420 for syn. info. dw			CGGGTCCAGATGGCTTGC
+see 336420 for syn. info. dw			CGGGTCCAGATGGCTTGC
+see 336420 for syn. info. dw			GGCTGTGGGTAGCAGACC
+see 336420 for syn. info. dw			GGCTGTGGGTAGCAGACC
+see 336420 for syn. info. dw			GGCTGTGGGTAGCAGACC
+see 336420 for syn. info. dw			GGCTGTGGGTAGCAGACC
+see 336676 for syn. info. dw	BHQ-1	FAM	gggaGAATAGCAGAATGCATACTTGGatctccc
+see 336676 for syn. info. dw	BHQ-1	FAM	ccggCGGGAGGAAATGGAGGTCCATGAGCTGGAGccgg
+see 336676 for syn. info. dw	BHQ-1	FAM	TCGTCAAGAACTACAGCTACTAATGCTGCGG
+			ATGTAGAGCGGATAACGCGG
+			GCTCGAAGCGGTAGGAAAGT
+			CCTGTCTGCTGATGTCGGTT
+			GATTCGCCTGTGTCGACGAT
+			GGAACGTTTCACAGAGTTGGC
+			TCCCGCACCGTATGTTTTCG
+			TTCGTTCAGCCCCTGTTTGA
+			GAATGGGTTTCGAAGTGGCG
+			GTCGACGGCAGTATAGGCAG
+			GCGTGTATGAGGGTGTGGAA
+			GGGTGTAGGTGTAGCCTGTG
+			GCATCGTCAAACTGATTCGCA
+			ATGCCGTCCACCAACGTATT
+			TGCAAATCTTCAACCGCCAC
+			CTTGAACAGGCAGGCAACAC
+			CACGCCTCCAAAGACCTCAA
+			CGCTCTCACCGATAACCACA
+			TTGCGGATGTTCGTTGAGGA
+			GGCGTTGGGTTTGAACAAGG
+			TGAAACATTATTTGGTAAGGTCGC
+			AGCTAAGTTCAGGACAGCCG
+			ATTTTGTCCTTCATCGCCGC
+			CGCTTTGGACGAACTGAACG
+			CCTACGCTACTCAGCAACCC
+			AAGGCAAAACACCGGAATGC
+			CAGCAACAGCAGAGCAACAA
+			CTTTTTCCATCTCGCCCACG
+			TGTATGGGGTTGCCGAAAGG
+			TGACACACCACGACCTGAAG
+			TCGAGACCGATACCGAAAGC
+			TCTGCGTCAGAATCTCCCCT
+			GGGTGCAGGTTCGATTTATATTTCA
+			TAACCGAAACCGGACGAACC
+			TGCCCGACGGTCTTTATAGTG
+			CGTTCAACACATCATCCGCC
+			ACGGTTTGGCTGCTTACCTT
+			CCCAAAATTCCAGCACCAGC
+			GCAATCGGCAGGTGTTCTTC
+			CTGTATGGTGCGCCGTCTTA
+			GGACAACATCAAACTCGGCG
+			TTGCCGTTTGTAGCCTTGGA
+			GCATATGTTCCAGTCCCTTCAT
+			TTACCAAGCTAGACGGCACG
+			TGCTGCCCGCTATTCCTTTT
+			GTGTTGCATCAGATCGTCGC
+			ATCGGCATAGCCGTTTTGGA
+			ACGACCGTTCCCGAAGAATG
+			GATTTATTGACGGGGCAGGC
+			CATCGGAGCCGTTATGGACA
+			TTCCAAGCCCTGAACATCCC
+			CGCCGACTTCGGCTAGAATA
+			GTATGTCGCTGTTTTCCCGC
+			TTTGAAGCTCTTGTGCAGCG
+			CCTATCAAGCCACCGTCCTG
+			CCATGCGTGCCTTTGTCTTT
+			CGACCAGCCACATCAAAAGC
+			GCAAGCGATTGATTGGCACA
+			TTGGAAAGCAATCCTGCCGA
+			CGAGAAAATCCAACAGCCGC
+			GGCGTTGGGTTTGAACAAGG
+			GTAAGGTCGCTGCTTGCAATA
+			AAACCGGAAACCTTGCCGTA
+			TTTGTCCGATTTTTCGCGCC
+			GCCCAATACGACTGGCTGAT
+			GCTTGACGGCGCACAAATTA
+			TTTCCATCTCGCCCACGATT
+			TTCCATCTCGCCCACGATTT
+			CAAAAGGGGCTGATGTTCGG
+			ATCGGCAAAAGTTACGCCCT
+			AGCGACCATCAGCATACGTT
+			GGCGGCGGGTTTCTGT
+			CGAGGTCTGCGCTTGAATTG
+			AGGGAGGGTGTGAAAATGCC
+			TCTGTTGTACAATGCGCCCT
+			GCAAGCGATTGATTGGCACA
+			CGACCAGCCACATCAAAAGC
+			CGGATATGCCATGTTGACGC
+			TCTGAGCGAACCCGAAGAAC
+			TTCGGCGATATGGCGATTCA
+			TGGCCTGTAAAAGACAGCAT
+			TTTCAACCAGCAATTCGGCG
+			AGGCTTGGGCTTGCTCAAAA
+	Quasar 570		tgaaggaggaactgcagtgg
+	Quasar 570		aaacatcatcattgcgggct
+	Quasar 570		agcagaatccaaggacaacc
+	Quasar 570		agtagctgatgatcttctgg
+	Quasar 570		gccttattttgtgttaagct
+	Quasar 570		caaggagaacactaccgctg
+	Quasar 570		tagtctaagtgctttcacca
+	Quasar 570		tgttgacatgtttttcctgg
+	Quasar 570		gtccacgaagatttcgactt
+	Quasar 570		ctcattgaattccgttttgc
+	Quasar 570		tacatgaggactcggtgaga
+	Quasar 570		tcctctgtcgatagacattg
+	Quasar 570		catggccacatccacaaaat
+	Quasar 570		catgagtcgggtagagtttg
+	Quasar 570		aacatggagacgtcttccag
+	Quasar 570		gagttcatggcatgtatctg
+	Quasar 570		gcctatctcttgggaaaact
+	Quasar 570		aatagcacgtggctagtttc
+	Quasar 570		caaaggccgaactcgattgt
+	Quasar 570		atggacgaaagtaaccctgc
+	Quasar 570		tgtcggaaagagcatgcttc
+	Quasar 570		tcgtctttgggtcaaaggat
+	Quasar 570		gtcctgaaaggtggtgatta
+	Quasar 570		ggacgggtaattgactttgc
+	Quasar 570		aggggttgaagtataccgag
+	Quasar 570		tcaaggcatcacacactgtg
+	Quasar 570		cccagatattggttcatttt
+	Quasar 570		taactctggttctaggcatc
+	Quasar 570		ttgactgcattgttgctaca
+	Quasar 570		ttactagccaaccatgacac
+	Quasar 570		catgggttctttagagcatt
+	Quasar 570		tgcgaggaatgtttgctaca
+	Quasar 570		aaagttccacaactcaccga
+	Quasar 570		aggaaagtctcaggtccaag
+	Quasar 570		aatagaaaccacctcccaac
+	Quasar 570		tgatgcaaagcgtggagcaa
+	Quasar 570		gtgtttctgaacagcttctg
+	Quasar 570		gaacactcagtctacatcca
+	Quasar 570		cttttctttgcttgcattgt
+	Quasar 570		acgaggtcagtacaacctat
+	Quasar 570		tcaggaagcttgccacaaat
+	Quasar 570		cctgcagtgataattcactc
+	Quasar 570		ttgaggttctcagtctaagc
+	Quasar 570		agatggtatttacatccctg
+	Quasar 570		gtctccaactctttggaatc
+	Quasar 570		actgaagcaaatccctttgt
+	Quasar 570		aaagggcagtggcttatgac
+	Quasar 570		agtagacttgtcagatgtcc
+see 336468 for syn. info. dw			CAAAATCATACAGTGCAACGAAAAG
+	BHQ-1	FAM	CGCTTCTGCAACATCTGAGAAATGT
+	BHQ-1	FAM	CAGCCTAAACTGCTACATTTCAAAG
+	BHQ-1	FAM	GCTGACGGTACAGGCCAGACAA
+	BHQ-1	FAM	CATGGACCCCCACACAGCAAAGC
+	BHQ-1	FAM	ACCGCGACCTGGCAGCCAGGAAC
+	BHQ-1	FAM	GTTGGGAAAAGCGCACTGACAATC
+	BHQ-1	FAM	TTGCGCTGGCCGCAGCC
+	BHQ-1	FAM	TCCTCCTTGGTAACGCTAA
+	BHQ-1	FAM	TGTGGCAAGAGCGATGTTACGGTTTG
+MS ok: TS 02/26/2015low yield 2/25/2015 la	TAMRA	FAM	CTCTTCACATAATCgCCCCgAgCTCg
+	Quasar 570		aatgggataggtcacgttgg
+	Quasar 570		gaacaaacggcggattgacc
+	Quasar 570		tagccagctttcatcaacat
+	Quasar 570		ttgcaccacagatgaaacgc
+	Quasar 570		ttcagacggcaaacgactgt
+	Quasar 570		cgcgtaaaaatgcgctcagg
+	Quasar 570		tcctgatcttccagataact
+	Quasar 570		gagacgtcacggaaaatgcc
+	Quasar 570		tgtgtagtcggtttatgcag
+	Quasar 570		ggcaacatggaaatcgctga
+	Quasar 570		cgcggctgaaatcatcatta
+	Quasar 570		caccctgccataaagaaact
+	Quasar 570		ctcatcgataatttcaccgc
+	Quasar 570		acgttcagacgtagtgtgac
+	Quasar 570		gcacgatagagattcgggat
+	Quasar 570		taacgcctcgaatcagcaac
+	Quasar 570		tgaccatgcagaggatgatg
+	Quasar 570		cacggcgttaaagttgttct
+	Quasar 570		agcggatggttcggataatg
+	Quasar 570		gggtttcaatattggcttca
+	Quasar 570		gatcatcggtcagacgattc
+	Quasar 570		gatcacactcgggtgattac
+	Quasar 570		ggatcgacagatttgatcca
+	Quasar 570		cgcgtacatcgggcaaataa
+	Quasar 570		aagccattttttgatggacc
+	Quasar 570		tattcgcaaaggatcagcgg
+	Quasar 570		gaaaccgccaagactgttac
+	Quasar 570		cctgtaaacggggatactga
+	Quasar 570		gttgccgttttcatcatatt
+	Quasar 570		catacagaactggcgatcgt
+	Quasar 570		aaactgctgctggtgttttg
+	Quasar 570		tttgcccggataaacggaac
+	Quasar 570		cgctatgacggaacaggtat
+	Quasar 570		gtagttcaggcagttcaatc
+	Quasar 570		aaaatccatttcgctggtgg
+	Quasar 570		aattgccaacgcttattacc
+	Quasar 570		aaagaaagcctgactggcgg
+	Quasar 570		ttgttttttatcgccaatcc
+	Quasar 570		acttacgccaatgtcgttat
+	Quasar 570		aataaggttttcccctgatg
+	Quasar 570		catcaatccggtaggttttc
+	Quasar 570		caacggtaatcgccatttga
+	Quasar 570		gtcaaaacaggcggcagtaa
+	Quasar 570		ggaagacgtacggggtatac
+	Quasar 570		gtgggccataattcaattcg
+	Quasar 570		tcagttgctgttgactgtag
+	Quasar 570		ggaaaccgtcgatattcagc
+	Quasar 570		acaccagaccaactggtaat
+synthesis failureDMTR of ss336353 kt	BHQ-3		TTTTATCGCGTGGCGCAGGTCCCGATC
+synthesis failureDMTR of ss336354 kt	BHQ-3		TTTTATCGCGTGGCGCAGGTCCCGATCACCTTAACCAGCACAGTCAC
+			CGGAGGGCCATCCTTTACAG
+			GGCACCCAAGAACACCTTGAG
+			CAGACCACGCTACGGCG
+			CAGACCACGCTACGGCG
+			CAGACCACGCTACGGCG
+			CTAGGGCCGCGTGGG
+			CTAGGGCCGCGTGGG
+			CTAGGGCCGCGTGGG
+			TCAGCGATCTCTCCACCAAAG
+			TCAGCGATCTCTCCACCAAAG
+			TCAGCGATCTCTCCACCAAAG
+			GGGTCAGCACGTTTGTCATTG
+			GGGTCAGCACGTTTGTCATTG
+			GGGTCAGCACGTTTGTCATTG
+			AGACGATCCTTCGGTGAGC
+			GCTTTTGCAATGTCATTTACTG
+			GCTGCGGTAGGTGGTTCAA
+			TTGTCGCGGATTTGCAACTA
+			TGCAGAGCGTCCTTTGGTCTAT
+			CTCTTACTCGTGGTTTCCAACTTGA
+			GGCGAAATGGTGCTGGTAA
+			GGCCAAGAGATACTCATAGAACGTT
+wobble okay cf			CTGCCCGAATTYGTAAATGA
+			CCAACCCARCCATTRTACA
+wobble okay cf			CNTGGGAGGGCGATCGCAA
+wobble okay cf			CCRCCNGCATRHCCRTTRTACAT
+wobble okay cf			GGCWGTTCCCACAGGCTT
+			TATGTTGACCCTGATAC
+wobble okay cf			CCTTYCCAKWTCCCAYGG
+wobble okay cf			TGTCTRSTCCCCCAGGAATG
+wobble okay cf			TATGTNGAYCCWGACAC
+wobble okay cf			TGYCTYNTNCCHCARGAATGG
+			CTGGATTTAATGTCGCATAGTG
+			AGAACGCCCACTGAGATCATC
+			GGCACTGTCTGAAACTGCTCC
+			TCGCCAGTTATCTGACATTCTG
+			gggtttgttaagatggc
+			gggtttgttaagatg
+			cacgacgttgtaaaacgac
+			ggataacaatttcacacagg
+wobble okay cf			GACCRATCCTGTCACCTCTGAC
+			AGGGCATTYTGGACAAAKCGTCTA
+			ATTgCTggTTTCTTAgAAgg
+			TTgTTTATRgCTTCTTgMgT
+			gCAACgCgCgATTCAgTT
+			gCCTCTACACgggACCCATA
+			ACTATAGCGATTTGGAACCA
+			GCGATGACCTACTTTCGCAT
+			GCCAAGTGGTTTGCAATACAAA
+			CTCGACAGTGACTGTATCCGATTT
+			CAAAGGGCGTTACAGTCAAACC
+			CAAACACCCCAACCGTAATCA
+			GACGCTCTCCCCAAGGAC
+			CTGCGCACGCTGCTCG
+			CTACACAGCAGGATGCAGATGT
+			CAGGATGCCGGAAGTCGAT
+			AATCCTCCTCCTTTGCGACCCAATGGAAACTGGTC
+			AATCCTCCTCCTTTAGTACGGACCCCAGCCT
+poor wobble cf			cacgacgttgtaaaacgactcaacyaatcayaaagatatyggcac
+			ggataacaatttcacacaggacttcygggtgrccraaraatca
+			AACTCCTCCTCCTCCTTAAAAACTTCCGTCCTAAAGGAAACTGGTC
+			AACTCCCTCCTCCTCCTCCTTACCTATAAAAATTTTCGGCCAAGGGGATAT
+			AATCCTCCTCCTCCACTGTAAATTAACTTCCCAAAACTTATATTTAGCCAGGGGATC
+			AATCCTCCTCCTCCTTAAAAACTTACGGCCCAGTGGAAATTGATC
+			AACTCCTCCTCCTCCTTGCAACAGAAATTTTCGTCCTAGAGG
+			AACTCCTCCTCCTTAAAAACTTACGGCCCAAAGGAAACTGGTC
+			GTTTGGGTTATGATGGATGG
+			TTATCAGTTCAGCCCTCCTT
+			CGAATTAAACCATATCGTGGCAT
+			ACTGCAATCCTCAATCTCAG
+			GGATGGGTGCACCTGGTTTACAC
+wobble			GAAGGGCCACATTCACGAACCCCG
+			TGTCAGAGACATCAAGGAGAAGCT
+			CGTCTGCATTTCCTGGTCAA
+			ACGCACGTTGGAAGAAAATTTG
+			ACAACGCACGTTGGAAGAA
+			TTGATGTGGCGGTGTGGC
+			GCATTGATGTGGCGGTGT
+			GCAATACAACGCAGGTCAGG
+			TCYTTCATYTCWGTCCAYTTYTCATCATT
+wobble			GGATTGGTTTCCATTCARATTGCNAAYTA
+			CTGCCAGTCAGAACTCCRGCWTCCATYTC
+			CCRCCNGCATRHCCRTTRTACAT
+synthesis failure			CARGARBCNATGTTYAGRTGGATGAG
+			TCGACGCCATCTTCATTCACA
+wobble			GAASCGCATCCARCGGAACAT
+			GGCCCCTGAATGCGGCTAAT
+			GCYATGTTCCGYTGGATGC
+			GTCCTTAGACGCCATCATCATT
+wobble			CWTACATGCACATCKCSGG
+			CRCGGGCRAAYTGCACCAG
+			GTACGGGGATGCAGATAAATCGC
+			CCGGAATGCAAATCAGTC
+			AGCAGTCATTACATAAGAACGYCCACT
+			CAGTGACAAAACGCAGAACT
+			ATGGTTACTTGGGGAGGG
+			CTACTGTAATATCCTTTG
+			GCAGAGATATTTTCCTTCTT
+			TGTTTGATTTCCTTCTCCTT
+			AGCTCATTTCACATCGTCCATCT
+			TCCACCATTCCCAAGCTAAACC
+			GGCGGCCAGATTCAGCATAG
+			GCTACCACCTTGCACATAAGC
+			TCGCCATTCGTTGACTACTTC
+			ACATCGCTCTTGCCACAGACT
+			CAGTGCCCGGTGTGACAAC
+			GACACGTTGCAGAGTGGTATAAC
+			CGGGCATACCATCCAGAGAA
+			CACCGTGGTCCAGTTTATCGT
+	BHQ-1	FAM	CCgCAATgTCATACCgTCATCgTTgT
+	BHQ-1	FAM	TAACCGCTTTTTTGCACAACATGG
+	BHQ-1	FAM	TCTGGATTTAATGTCGCATAGCG
+wobble okay cf	BHQ-1	FAM	TGTCGTCCGYTTTAGCGTGAGAC
+	TAMRA	FAM	TGCAACCGAGCACGACAGGA
+MS Failure:  2/25/2015		Amino C6	TCACCAGCGGCATCGAG
+MS Failure:  2/25/2015		Amino C6	aaaCCGACTGTTGGCGCTGG
+MS Failure:  2/25/2015		Amino C6	GACGTCGTCGCCACCATCGA
+MS Failure:  2/25/2015		Amino C6	AAGACRTCGTVGCSACCATCGA
+MS Failure:  2/25/2015		Amino C6	TCGGTCTCCCGGCGAACTCC
+MS Failure:  2/25/2015		Amino C6	AGGTTGACCTACAAGCGCC
+MS Failure:  2/25/2015		Amino C6	AATGGTCCAGAACAACCCG
+		Biotin	TGCACGTCGCGGACCTCCA
+		Biotin	TCGCCGCGATCAAGGAGTTCT
+	mdC(TEG-Amino)		gggctctgccatcttaacaaaccc
+	mdC(TEG-Amino)		gggccctgccatcttaacaaaccc
+	mdC(TEG-Amino)		gcagagttgtcaagaaccac
+	mdC(TEG-Amino)		cacttgcccatcaactggaa
+	mdC(TEG-Amino)		gcatgatcacagttatgctt
+	mdC(TEG-Amino)		ttccgttacagctacttaga
+synthesis failure			TAAAACAGGCAGCGGTGATAGCCAGAGCNNSCCCATCAAGGCGGACTTGGAG
+synthesis failure			GGTCAAAGGCCAAAGTGCTTTGCCTTTCNNSGTCGACTGCTGGGCTATCCTG
+synthesis failure			TGCTTTGCCTTTCGACGTCGACTGCTGGNNSATCCTGTGCAAGGGCGCCCC
+synthesis failure			TTTCGACGTCGACTGCTGGGCTATCCTGNNSAAGGGCGCCCCGAATGTCCT
+			GACGAAAAATAGTAATCGCGATCGGAGCNNSGCGAACAAAGGGCCTTTCAAAG
+synthesis failure			TGCGAACAAAGGGCCTTTCAAAGATCCTNNSAAATGGGGCATCAAAGCCCTTC
+synthesis failure			TTTCAAAGATCCTCAGAAATGGGGCATCNNSGCCCTTCCACCTAAGAATCCAT
+synthesis failure			CAAAGATCCTCAGAAATGGGGCATCAAANNSCTTCCACCTAAGAATCCATCCTG
+			GAAATGGGGCATCAAAGCCCTTCCACCTNNSAATCCATCCTGGAGCGCACAAG
+synthesis failure			CATCCTAGCGCCCGTCAACCTCGCTTCTNNSAACTCCCAAGGCGGCGTCTTG
+synthesis failure			CCTAGCGCCCGTCAACCTCGCTTCTCAGNNSTCCCAAGGCGGCGTCTTGAAC
+synthesis failure			CGTCAACCTCGCTTCTCAGAACTCCCAANNSGGCGTCTTGAACGGTTTCTACT
+synthesis failure			CAAAGTAGCACAATTTGATCCTAGCAAGNNSCAACAGACAAAGGGAACATGGTT
+synthesis failure			CCAACAGACAAAGGGAACATGGTTTCAGNNSACTAAGTTCACAGGTGCAGCTG
+synthesis failure			CTAAGAAAATACTAGTCCTTACTGCAAGNNSCTGGGGAGTAATGATAAGAGTGT
+synthesis failure			AGAAAATACTAGTCCTTACTGCAAGGCTNNSGGGAGTAATGATAAGAGTGTGTG
+synthesis failure			TAGTCCTTACTGCAAGGCTCTGGGGAGTNNSGATAAGAGTGTGTGCGATAAGAAC
+synthesis failure			CTGCAAGGCTCTGGGGAGTAATGATAAGNNSGTGTGCGATAAGAACAAGAATATTG
+synthesis failure			GAGTAATGATAAGAGTGTGTGCGATAAGNNSAAGAATATTGCAGGGGACTGGG
+synthesis failure			TAATGATAAGAGTGTGTGCGATAAGAACNNSAATATTGCAGGGGACTGGGGC
+synthesis failure			TGATAAGAGTGTGTGCGATAAGAACAAGNNSATTGCAGGGGACTGGGGCTTC
+synthesis failure			TGTGTGCGATAAGAACAAGAATATTGCANNSGACTGGGGCTTCGACCCGG
+	BHQ-2	T(ROX)	CGCGATTATCAACCAGAAAGACTCT
+low Yield after Ods 02/25/15 mrrsee ss336351 for synth info kt	BHQ-2	Quasar 670	AGCTTGTAGGCGGGGTAATGGCC
+N- Failure	Spacer C3	BHQ-2	TTTTTTTTTTTTTTTTTTTG-4-ACTGCCCGTATCGCGTAC
+	Spacer C3	BHQ-2	TTTTTTTTTTTTTTTTTTTC-4-AATGATGGATAGGCGAC
+reassigned for recombine - 2/25/2015 sm 	Spacer C3	BHQ-2	TTTTTTTTTTTCGTCTGGGG-4-GGAGCATACGACGCGAG
+reassigned for recombine - 2/25/2015 sm 	Spacer C3	BHQ-2	TTTTTTTTTTTCGTCTGGGG-4-GGAGCATACGACGCGAG
+reassigned for recombine - 2/25/2015 sm 	Spacer C3	BHQ-2	TTTTTTTTTTTCGTCTGGGG-4-GGAGCATACGACGCGAG
+Low yield at ODs did not aliquot 02/25/15 kt	Spacer C3	BHQ-2	TTTTTTTTTTTCGTCTGGGG-4-GGAGCATACGACGCGAG
+	BHQ-1	FAM	ccTGTAGCTGAATATCATTAG-9-Tacagg
+	Spacer C3	BHQ-2	TTTTTTTTTTTCGTCTGGGG-4-GGAGCATACGACGCGAG
+	Spacer C3	BHQ-2	TTTTTTTTTTTCGTCTGGGG-4-GGAGCATACGACGCGAG
+	Spacer C3	BHQ-2	TTTTTTTTTTTCGTCTGGGG-4-GGAGCATACGACGCGAG
