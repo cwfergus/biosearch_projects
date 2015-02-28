@@ -17,7 +17,8 @@ rawdata <- read.table(filename,
 colnames(rawdata) <- c("Failure_Reason", 
                        "Five_Prime_mod", 
                        "Three_Prime_mod", 
-                       "sequence")
+                       "sequence",
+                       "sequence_ID")
 raw_tbl_df <- tbl_df(rawdata)
 
 seq_amount <- nrow(raw_tbl_df)
@@ -46,6 +47,12 @@ reason_counts <-
         group_by(Failure_Reason) %>%
         summarize(number_of_failures = n()) %>%
         arrange(desc(number_of_failures), Failure_Reason)
+
+seqID_counts <- 
+        clean_failure %>%
+        group_by(sequence_ID) %>%
+        summarize(number_of_failures_by_ID = n()) %>%
+        arrange(desc(number_of_failures_by_ID))
 
 mod_reason_counts <- 
         clean_failure %>%
