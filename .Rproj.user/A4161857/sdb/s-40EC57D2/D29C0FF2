@@ -1,0 +1,17 @@
+{
+    "contents" : "library(dplyr)\nlibrary(xlsx)\nlibrary(stringr)\nsource('failurelistfunctions.R')\n\nfilename <- readline(\"What is the data file called? Don't forget the extension... \")\n\noutputname <- readline(\"What is the output file called?...  \")\noutputname <- paste(outputname, \".xlsx\", sep=\"\")\n\nrawdata <- read.table(filename, \n                      sep=\"\\t\", \n                      stringsAsFactors=FALSE, \n                      na.strings = c(\"\", \" \"),\n                      quote=\"\")\n\ncolnames(rawdata) <- c(\"Failure_Reason\", \n                       \"Five_Prime_mod\", \n                       \"Three_Prime_mod\", \n                       \"sequence\")\nraw_tbl_df <- tbl_df(rawdata)\n\nseq_amount <- nrow(raw_tbl_df)\n\nnot_passed <- filter(raw_tbl_df, !is.na(Failure_Reason))\n\nnot_passed_amount <- nrow(not_passed)\n\nrm(rawdata)\n\nnot_passed <- clean_up()\n\n\nonly_failed <- not_failed()\n\nfailed_amount<- nrow(only_failed)\n\nrm(raw_tbl_df)\n\nclean_failure <- failure_aggregation()\n\naggr_failures <- nrow(clean_failure)\n\nreason_counts <-\n        clean_failure %>%\n        group_by(Failure_Reason) %>%\n        summarize(number_of_failures = n()) %>%\n        arrange(desc(number_of_failures), Failure_Reason)\n\nmod_reason_counts <- \n        clean_failure %>%\n        group_by(Five_Prime_mod, Three_Prime_mod) %>%\n        summarize(failure_per_mod = n()) %>%\n        group_by() %>%\n        arrange(desc(failure_per_mod))\n\nrm(clean_failure)\n\nfailure_list <- \n        only_failed %>%\n        arrange(Failure_Reason)\n\n\ndate <- Sys.Date()\ncountedname <- paste(\"Reason Counts for\", date, sep=\" \")\nmodname <- paste(\"Mod Counts for\", date, sep=\" \")\nlistname <- paste(\"Failure list for\", date, sep=\" \")\n\nclass(reason_counts) <- \"data.frame\"\nclass(mod_reason_counts) <- \"data.frame\"\nclass(failure_list) <- \"data.frame\"\n\nwrite.xlsx(reason_counts,\n           file=outputname, \n           sheetName=countedname,\n           row.names=FALSE,\n           append=FALSE)\n\nwrite.xlsx(mod_reason_counts,\n           file=outputname,\n           sheetName=modname,\n           row.names=FALSE,\n           append=TRUE)\n\n#write.xlsx(failure_list, \n #          outputname,\n  #         sheetName=listname,\n   #        row.names=FALSE,\n    #       append=TRUE)\nprint(\"Total number of sequences analyzed:\")\nprint(seq_amount)\n\nprint(\"Not passed amount:\")\nprint(not_passed_amount)\n\nprint(\"Total number of failures found:\")\nprint(failed_amount)\n\nprint(\"Percent Not Passed\")\nprint(not_passed_amount/seq_amount*100)\n\nprint(\"Percent failure:\")\nprint(failed_amount/seq_amount*100)\n\n\nrm(list=ls())\n\n",
+    "created" : 1425087144105.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2385008767",
+    "id" : "D29C0FF2",
+    "lastKnownWriteTime" : 1425090970,
+    "path" : "C:/Users/cferguson/Desktop/biosearch_projects/failurelistwfunctions.R",
+    "project_path" : "failurelistwfunctions.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
