@@ -12,7 +12,8 @@ rawdata <- read.table(filename,
                       sep="\t", 
                       stringsAsFactors=FALSE, 
                       na.strings = c("", " "),
-                      quote="")
+                      quote="",
+                      comment.char="")
 
 colnames(rawdata) <- c("Failure_Reason", 
                        "Five_Prime_mod", 
@@ -27,20 +28,23 @@ not_passed <- filter(raw_tbl_df, !is.na(Failure_Reason))
 
 not_passed_amount <- nrow(not_passed)
 
-rm(rawdata)
+#rm(rawdata)
 
 not_passed <- clean_up()
 
 
 only_failed <- not_failed()
 
-failed_amount<- nrow(only_failed)
+#rm(raw_tbl_df)
 
-rm(raw_tbl_df)
+clean_failure_reassigns <- failure_aggregation()
 
-clean_failure <- failure_aggregation()
+failures_and_reassigns <- nrow(clean_failure_reassigns)
 
-aggr_failures <- nrow(clean_failure)
+clean_failure_reassigns$Failure_Reason <- gsub("Reassigned", NA, clean_failure_reassigns$Failure_Reason)
+clean_failure <- filter(clean_failure_reassigns, !is.na(Failure_Reason))
+
+failed_count <- nrow(clean_failure)
 
 reason_counts <-
         clean_failure %>%
@@ -61,7 +65,7 @@ mod_reason_counts <-
         group_by() %>%
         arrange(desc(failure_per_mod))
 
-rm(clean_failure)
+#rm(clean_failure)
 
 failure_list <- 
         only_failed %>%
@@ -70,18 +74,34 @@ failure_list <-
 
 date <- Sys.Date()
 countedname <- paste("Reason Counts for", date, sep=" ")
+seqname <- paste("Sequence ID counts for", date, sep=" ")
 modname <- paste("Mod Counts for", date, sep=" ")
 listname <- paste("Failure list for", date, sep=" ")
 
 class(reason_counts) <- "data.frame"
 class(mod_reason_counts) <- "data.frame"
+class(seqID_counts) <- "data.frame"
 class(failure_list) <- "data.frame"
+
+summary <- data_summary()
+
+write.xlsx(summary,
+           file=outputname, 
+           sheetName="summary",
+           row.names=FALSE,
+           append=FALSE)
 
 write.xlsx(reason_counts,
            file=outputname, 
            sheetName=countedname,
            row.names=FALSE,
-           append=FALSE)
+           append=TRUE)
+
+write.xlsx(seqID_counts,
+           file=outputname, 
+           sheetName=seqname,
+           row.names=FALSE,
+           append=TRUE)
 
 write.xlsx(mod_reason_counts,
            file=outputname,
@@ -94,21 +114,9 @@ write.xlsx(mod_reason_counts,
   #         sheetName=listname,
    #        row.names=FALSE,
     #       append=TRUE)
-print("Total number of sequences analyzed:")
-print(seq_amount)
-
-print("Not passed amount:")
-print(not_passed_amount)
-
-print("Total number of failures found:")
-print(failed_amount)
-
-print("Percent Not Passed")
-print(not_passed_amount/seq_amount*100)
-
-print("Percent failure:")
-print(failed_amount/seq_amount*100)
 
 
-rm(list=ls())
+#rm(list=ls())
+
+
 
